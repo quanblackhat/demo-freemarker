@@ -30,7 +30,7 @@
 
         <#include "/fragments/footer.html">
 
-        <div id='preloader'><div class='preloader'></div></div>
+        <#--<div id='preloader'><div class='preloader'></div></div>-->
 	</section>
 
 
