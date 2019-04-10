@@ -96,6 +96,11035 @@
                     </div>
                     <!-- /single blog -->
 
+                    <!----------------->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog01.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog02.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog03.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single blog -->
+
+                    <!-- single blog -->
+                    <div class="col-md-6">
+                        <div class="single-blog">
+                            <div class="blog-img">
+                                <a href="/detail">
+                                    <img src="/static/assets/img/blog04.jpg" alt="">
+                                </a>
+                            </div>
+                            <h4><a href="/detail">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+                            <div class="blog-meta">
+                                <span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+                                <div class="pull-right">
+                                    <span>18 Oct, 2017</span>
+                                    <span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
                 <!-- /row -->
 

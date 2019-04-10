@@ -1,5 +1,8 @@
 package com.quangtk.demofreemaker;
 
+//import org.springframework.beans.factory.annotation.Autowired;
+//import org.springframework.data.domain.Page;
+//import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -13,6 +16,9 @@ import java.util.List;
 @Controller
 public class DemoController {
 
+//    @Autowired
+//    ArticleRepository articleRepository;
+
     @ModelAttribute
     public void addAttributes(Model model) {
         //Dynamic Menu
@@ -25,10 +31,8 @@ public class DemoController {
         ModelAndView modelAndView = new ModelAndView();
         modelAndView.setViewName("fragments/main");
         modelAndView.addObject("CONTENT", "/index.ftl");
-//        List<String> menus = Arrays.asList("HOME", "ABOUT", "COURSE", "BLOG", "CONTACT");
-//        model.addAttribute("menus", menus);
-//        modelAndView.addObject("menus", menus);
-
+//        PageRequest pageRequest = PageRequest.of(0, 10);
+//        Page<Article> pages = articleRepository.findAll(pageRequest);
         return modelAndView;
     }
 
