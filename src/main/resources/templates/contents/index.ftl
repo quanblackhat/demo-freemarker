@@ -6,7 +6,7 @@
                     <div class="blog-img">
                         <a href="/detail/${article.id}">
                             <img src="/images/${article.image}" alt="Ảnh bài viết"
-                                 onerror="this.src='/static/assets/img/blog01.jpg'" >
+                                 onerror="this.src='/images/default.jpg'">
                         </a>
                     </div>
                     <div style="min-height: 30px">

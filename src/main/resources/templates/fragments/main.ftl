@@ -34,7 +34,7 @@
         </div>
 
         <#include FOOTER>
-        <#--<div id='preloader'><div class='preloader'></div></div>-->
+        <div id='preloader'><div class='preloader'></div></div>
 	</section>
 </body>
 </html>

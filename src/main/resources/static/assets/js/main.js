@@ -3,12 +3,11 @@
 	
 	// Preloader
 	$(window).on('load', function() {
-		$("#preloader").delay(600).fadeOut();
+		$("#preloader").delay(100).fadeOut();
 	});
 
-	// Mobile Toggle Btn
-	$('.navbar-toggle').on('click',function(){
-		$('#header').toggleClass('nav-collapse')
-	});
-	
 })(jQuery);
+
+function toggleMenu() {
+    $('#header').toggleClass('nav-collapse')
+}
