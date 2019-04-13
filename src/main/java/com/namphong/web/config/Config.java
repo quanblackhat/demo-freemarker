@@ -1,5 +1,6 @@
-package com.quangtk.demofreemaker;
+package com.namphong.web.config;
 
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;
@@ -14,6 +15,9 @@ import org.springframework.web.servlet.resource.PathResourceResolver;
 @EnableWebMvc
 public class Config extends WebMvcConfigurerAdapter {
 
+    @Value("${directory.images}")
+    private String imagesDirectory;
+
     /**
      * Configure ResourceHandlers to serve static resources like CSS/ Javascript/Images etc...
      */
@@ -25,7 +29,7 @@ public class Config extends WebMvcConfigurerAdapter {
 
         if (!registry.hasMappingForPattern("/images/**")) {
             registry.addResourceHandler("/images/**")
-                    .addResourceLocations("file:/C:/Users/Administrator/Desktop/Images/")
+                    .addResourceLocations("file:" + imagesDirectory)
                     .setCachePeriod(3600)
                     .resourceChain(true)
                     .addResolver(new PathResourceResolver());

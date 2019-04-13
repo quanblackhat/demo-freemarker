@@ -1,4 +1,4 @@
-package com.quangtk.demofreemaker;
+package com.namphong.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
