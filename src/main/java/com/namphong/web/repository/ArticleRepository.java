@@ -8,6 +8,8 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 
+import java.util.List;
+
 public interface ArticleRepository extends JpaRepository<Article, Long> {
 
     @Query(value = "SELECT article"
@@ -21,6 +23,9 @@ public interface ArticleRepository extends JpaRepository<Article, Long> {
             + " WHERE category.id = :categoryId"
             + " ORDER BY article.id DESC ")
     Page<Article> findByCategory(Pageable pageable, @Param("categoryId") Long categoryId);
+
+
+    List<Article> findTop10ByOrderByDateCreatedDesc();
 
 
 }

@@ -10,45 +10,17 @@
 <div class="widget posts-widget">
     <h3>Recents Posts</h3>
 
-    <div class="single-post">
-        <a class="single-post-img" href="/detail">
-            <img src="/static/assets/img/post01.jpg" alt="">
-        </a>
-        <a href="/detail">Pro eu error molestie deserunt.</a>
-        <p><small>By : John Doe .18 Oct, 2017</small></p>
-    </div>
+    <#list recentArticles as article>
+        <div class="single-post">
+            <a class="single-post-img">
+                <img src="/images/${article.image}" alt="Ảnh bài viết" height="42" width="42"
+                     onerror="this.src='/static/assets/img/blog01.jpg'" >
+            </a>
+            <a href="/detail/${article.id}">${article.title}
+                <p><small>${article.author}</small></p>
+        </div>
 
-    <div class="single-post">
-        <a class="single-post-img" href="/detail">
-            <img src="/static/assets/img/post02.jpg" alt="">
-        </a>
-        <a href="/detail">Pro eu error molestie deserunt.</a>
-        <p><small>By : John Doe .18 Oct, 2017</small></p>
-    </div>
-
-    <div class="single-post">
-        <a class="single-post-img" href="/detail">
-            <img src="/static/assets/img/post03.jpg" alt="">
-        </a>
-        <a href="/detail">Pro eu error molestie deserunt.</a>
-        <p><small>By : John Doe .18 Oct, 2017</small></p>
-    </div>
-
-    <div class="single-post">
-        <a class="single-post-img" href="/detail">
-            <img src="/static/assets/img/post02.jpg" alt="">
-        </a>
-        <a href="/detail">Pro eu error molestie deserunt.</a>
-        <p><small>By : John Doe .18 Oct, 2017</small></p>
-    </div>
-
-    <div class="single-post">
-        <a class="single-post-img" href="/detail">
-            <img src="/static/assets/img/post03.jpg" alt="">
-        </a>
-        <a href="/detail">Pro eu error molestie deserunt.</a>
-        <p><small>By : John Doe .18 Oct, 2017</small></p>
-    </div>
+    </#list>
 
 </div>
 

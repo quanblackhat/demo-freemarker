@@ -12,7 +12,7 @@ public class Article implements Serializable {
 
     @Id
     @Column(name = "id")
-    protected Long id;
+    private Long id;
 
     @Column(name = "image")
     private String image;
@@ -29,8 +29,8 @@ public class Article implements Serializable {
     @Column(name = "author")
     private String author;
 
-
-
+    @Column(name = "date_create")
+    private Long dateCreated;
 
     @ManyToMany(fetch = FetchType.EAGER)
     @JoinTable(name = "category_article",
@@ -95,5 +95,13 @@ public class Article implements Serializable {
 
     public void setAuthor(String author) {
         this.author = author;
+    }
+
+    public Long getDateCreated() {
+        return dateCreated;
+    }
+
+    public void setDateCreated(Long dateCreated) {
+        this.dateCreated = dateCreated;
     }
 }

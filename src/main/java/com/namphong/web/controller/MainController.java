@@ -80,6 +80,10 @@ public class MainController {
         //Dynamic Category
         List<Category> categories = categoryRepository.findAll();
         model.addAttribute("categories", categories);
+
+        //Recently article
+        List<Article> recentArticles = articleRepository.findTop10ByOrderByDateCreatedDesc();
+        model.addAttribute("recentArticles", recentArticles);
     }
 
     private ModelAndView initView(String contentFragment) {
