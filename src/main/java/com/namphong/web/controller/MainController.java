@@ -20,7 +20,6 @@ import org.springframework.web.servlet.ModelAndView;
 import java.util.List;
 import java.util.Optional;
 
-
 @Controller
 public class MainController {
 
@@ -43,18 +42,25 @@ public class MainController {
      *
      */
     @GetMapping({"/", "index"})
-    public ModelAndView index(@RequestParam(name = "categoryId", required = false) Long categoryId) {
+    public ModelAndView index(@RequestParam(name = "categoryId", required = false) Long categoryId,
+                              @RequestParam(name = "page", required = false) Integer page) {
 
         ModelAndView modelAndView = this.initView(INDEX_TEMPLATE);
-        PageRequest pageRequest = PageRequest.of(0, 10);
-        Page<Article> pages;
-        if (categoryId == null){
-            pages = articleRepository.findAll(pageRequest);
-        } else {
-            pages = articleRepository.findByCategory(pageRequest,categoryId);
-        }
-        modelAndView.addObject("total", pages.getTotalElements());
+
+
+        categoryId = categoryId == null ? -1L : categoryId;
+        page = page == null ? 1 : page;
+
+        PageRequest pageRequest = PageRequest.of(page -1 , 10);
+        Page<Article> pages = articleRepository.loadArticles(pageRequest,categoryId);
+
+
+        modelAndView.addObject("totalElements", pages.getTotalElements());
+        modelAndView.addObject("totalPages", pages.getTotalPages());
+        modelAndView.addObject("page", page);
+        modelAndView.addObject("visiblePage", 5);
         modelAndView.addObject("articles", pages.getContent());
+
         return modelAndView;
     }
 
@@ -67,7 +73,9 @@ public class MainController {
 
         ModelAndView modelAndView = this.initView(DETAIL_TEMPLATE);
         Optional<Article> articleOptional = articleRepository.findById(id);
-        if (articleOptional.isPresent()) modelAndView.addObject("article", articleOptional.get());
+        if (articleOptional.isPresent()) {
+            modelAndView.addObject("article", articleOptional.get());
+        }
         return modelAndView;
     }
 
@@ -82,7 +90,7 @@ public class MainController {
         model.addAttribute("categories", categories);
 
         //Recently article
-        List<Article> recentArticles = articleRepository.findTop10ByOrderByDateCreatedDesc();
+        List<Article> recentArticles = articleRepository.findTop3ByOrderByDateCreatedDesc();
         model.addAttribute("recentArticles", recentArticles);
     }
 

@@ -15,13 +15,14 @@
     <script type="text/javascript" src="/static/assets/js/jquery.min.js"></script>
     <script type="text/javascript" src="/static/assets/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="/static/assets/js/main.js"></script>
+    <script type="text/javascript" src="/static/assets/js/jquery.twbsPagination.js"></script>
 </head>
 <body>
     <#include SETTING>
 	<section id="container">
         <#include HEADER>
 
-        <div class="container">
+        <div class="container" style="padding-top: 20px">
             <div class="row">
                 <div id="main" class="col-md-9">
                     <#include CONTENT>

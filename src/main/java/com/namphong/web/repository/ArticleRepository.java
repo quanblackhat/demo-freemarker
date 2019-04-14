@@ -14,18 +14,12 @@ public interface ArticleRepository extends JpaRepository<Article, Long> {
 
     @Query(value = "SELECT article"
             + " FROM Article article"
-            + " ORDER BY article.id DESC ")
-    Page<Article> findAll(Pageable pageable);
-
-    @Query(value = "SELECT article"
-            + " FROM Article article"
             + " LEFT JOIN article.categories category"
-            + " WHERE category.id = :categoryId"
+            + " WHERE ((:categoryId = -1L) OR (category.id = :categoryId))"
             + " ORDER BY article.id DESC ")
-    Page<Article> findByCategory(Pageable pageable, @Param("categoryId") Long categoryId);
+    Page<Article> loadArticles(Pageable pageable, @Param("categoryId") Long categoryId);
 
-
-    List<Article> findTop10ByOrderByDateCreatedDesc();
+    List<Article> findTop3ByOrderByDateCreatedDesc();
 
 
 }

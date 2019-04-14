@@ -1,12 +1,32 @@
-<#if (total > 0)>
-    <div class="row">
+<script>
+    $(document).ready(function () {
+        $(function () {
+            if (${totalElements} > 0) {
+                window.pagObj = $('#pagination').twbsPagination({
+                    totalPages: ${totalPages},
+                    visiblePages: ${visiblePage},
+                    startPage: ${page},
+                    first: '&laquo;',
+                    prev: '',
+                    next: '',
+                    last: '&raquo;'
+                }).on('page', function (event, page) {
+                    var url = "/?page=" + page;
+                    window.location.replace(url);
+                });
+            }
+        });
+    });
+</script>
+<#if (totalElements > 0)>
+    <div class="row" id="articleTable">
         <#list articles as article>
             <div class="col-md-6">
                 <div class="single-blog">
                     <div class="blog-img">
                         <a href="/detail/${article.id}">
                             <img src="/images/${article.image}" alt="Ảnh bài viết"
-                                 onerror="this.src='/images/default.jpg'">
+                                 onerror="this.src='/static/assets/img/default.jpg'">
                         </a>
                     </div>
                     <div style="min-height: 30px">
@@ -26,15 +46,9 @@
 
     <div class="row">
         <div class="col-md-12">
-            <div class="post-pagination">
-                <a href="#" class="pagination-back pull-left">Back</a>
-                <ul class="pages">
-                    <li class="active">1</li>
-                    <li><a href="#">2</a></li>
-                    <li><a href="#">3</a></li>
-                    <li><a href="#">4</a></li>
-                </ul>
-                <a href="#" class="pagination-next pull-right">Next</a>
+            <div class="example">
+                <ul id="pagination" class="pagination super-page"></ul>
+                <div class="clearfix"></div>
             </div>
         </div>
     </div>

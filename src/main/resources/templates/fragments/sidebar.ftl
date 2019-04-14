@@ -14,7 +14,7 @@
         <div class="single-post">
             <a class="single-post-img">
                 <img src="/images/${article.image}" alt="Ảnh bài viết" height="42" width="42"
-                     onerror="this.src='/images/default.jpg'" >
+                     onerror="this.src='/static/assets/img/default.jpg'" >
             </a>
             <a href="/detail/${article.id}">${article.title}
                 <p><small>${article.author}</small></p>
