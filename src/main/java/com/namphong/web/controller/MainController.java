@@ -23,7 +23,7 @@ import java.util.Optional;
 @Controller
 public class MainController {
 
-    private static final String INDEX_TEMPLATE      =  "/contents/index.ftl";
+    private static final String INDEX_TEMPLATE      =  "/contentNew/index.ftl";
     private static final String DETAIL_TEMPLATE     =  "/contents/detail.ftl";
 
     final ArticleRepository articleRepository;
@@ -51,7 +51,7 @@ public class MainController {
         categoryId = categoryId == null ? -1L : categoryId;
         page = page == null ? 1 : page;
 
-        PageRequest pageRequest = PageRequest.of(page -1 , 10);
+        PageRequest pageRequest = PageRequest.of(page -1 , 30);
         Page<Article> pages = articleRepository.loadArticles(pageRequest,categoryId);
 
 
@@ -97,12 +97,8 @@ public class MainController {
     private ModelAndView initView(String contentFragment) {
 
         ModelAndView modelAndView = new ModelAndView();
-        modelAndView.setViewName("fragments/main");
+        modelAndView.setViewName("newFragments/main");
         modelAndView.addObject("CONTENT", contentFragment);
-        modelAndView.addObject("HEADER", "/fragments/header.ftl");
-        modelAndView.addObject("SIDEBAR", "/fragments/sidebar.ftl");
-        modelAndView.addObject("FOOTER", "/fragments/footer.ftl");
-        modelAndView.addObject("SETTING", "/fragments/setting.ftl");
 
         return modelAndView;
     }

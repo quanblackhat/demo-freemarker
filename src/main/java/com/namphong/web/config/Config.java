@@ -27,6 +27,10 @@ public class Config extends WebMvcConfigurerAdapter {
             registry.addResourceHandler("/static/assets/**").addResourceLocations("classpath:/static/assets/");
         }
 
+        if (!registry.hasMappingForPattern("/static/new-assets/**")) {
+            registry.addResourceHandler("/static/new-assets/**").addResourceLocations("classpath:/static/new-assets/");
+        }
+
         if (!registry.hasMappingForPattern("/images/**")) {
             registry.addResourceHandler("/images/**")
                     .addResourceLocations("file:" + imagesDirectory)
