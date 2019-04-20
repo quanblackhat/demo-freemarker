@@ -14,6 +14,15 @@ public interface MenuRepository extends JpaRepository<Menu, Long> {
             + " ORDER BY menu.id ")
     List<Menu> findAll();
 
+    @Query(value = "SELECT menu"
+            + " FROM Menu menu"
+//            + " LEFT JOIN FETCH menu.subMenus"
+            + " WHERE menu.level = 0"
+            + " ORDER BY menu.id ")
+    List<Menu> findParentMenu();
+
+
+
 
 
 }

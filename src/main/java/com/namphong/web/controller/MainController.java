@@ -23,8 +23,10 @@ import java.util.Optional;
 @Controller
 public class MainController {
 
-    private static final String INDEX_TEMPLATE      =  "/contentNew/index.ftl";
+    private static final String INDEX_TEMPLATE      =  "/contents/index.ftl";
     private static final String DETAIL_TEMPLATE     =  "/contents/detail.ftl";
+    private static final String ABOUT_TEMPLATE     =  "/contents/about.ftl";
+    private static final String CONTACT_TEMPLATE     =  "/contents/contact.ftl";
 
     final ArticleRepository articleRepository;
     final CategoryRepository categoryRepository;
@@ -79,27 +81,57 @@ public class MainController {
         return modelAndView;
     }
 
-    @ModelAttribute
-    private void addAttributes(Model model) {
-        //Dynamic Menu
-        List<Menu> menus = menuRepository.findAll();
-        model.addAttribute("menus", menus);
+    /**
+     * About page
+     *
+     */
+    @GetMapping("/about")
+    public ModelAndView about() {
 
-        //Dynamic Category
-        List<Category> categories = categoryRepository.findAll();
-        model.addAttribute("categories", categories);
-
-        //Recently article
-        List<Article> recentArticles = articleRepository.findTop3ByOrderByDateCreatedDesc();
-        model.addAttribute("recentArticles", recentArticles);
+        return this.initView(ABOUT_TEMPLATE);
     }
+
+    /**
+     * Contact page
+     *
+     */
+    @GetMapping("/contact")
+    public ModelAndView contact() {
+
+        return this.initView(CONTACT_TEMPLATE);
+    }
+
+
+
+
 
     private ModelAndView initView(String contentFragment) {
 
         ModelAndView modelAndView = new ModelAndView();
-        modelAndView.setViewName("newFragments/main");
+        modelAndView.setViewName("fragments/main");
         modelAndView.addObject("CONTENT", contentFragment);
 
         return modelAndView;
     }
+
+    /**
+     * Add dynamic component such as menu, category,..
+     * @param model
+     */
+    @ModelAttribute
+    private void addAttributes(Model model) {
+        //Dynamic Menu
+        List<Menu> menus = menuRepository.findParentMenu();
+        model.addAttribute("menus", menus);
+        model.addAttribute("menu", menus.get(0));
+
+        //Dynamic Category
+//        List<Category> categories = categoryRepository.findAll();
+//        model.addAttribute("categories", categories);
+
+        //Recently article
+//        List<Article> recentArticles = articleRepository.findTop3ByOrderByDateCreatedDesc();
+//        model.addAttribute("recentArticles", recentArticles);
+    }
+
 }

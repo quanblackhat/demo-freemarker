@@ -1,14 +1,7 @@
-<footer id="footer">
 <div class="container">
-    <div id="bottom-footer" class="row">
-        <div class="col-md-4 col-md-push-8">
-        </div>
-        <div class="col-md-8 col-md-pull-4">
-            <div class="footer-copyright">
-                <span>&copy; Copyright 2018. All Rights Reserved. | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com">Colorlib</a></span>
-            </div>
+    <div class="row">
+        <div class="col-xs-12 col-sm-5 col-md-5">
+            <div class="copy">Copyright@2019 I-News Inc.</div>
         </div>
     </div>
 </div>
-</footer>
-
