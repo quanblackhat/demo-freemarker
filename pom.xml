@@ -9,10 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.quangtk</groupId>
-	<artifactId>demo-freemaker</artifactId>
+	<artifactId>nam-phong-web</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Nam Phong Web</name>
-	<description>Demo project for Spring Boot</description>
+	<description>News</description>
+	<packaging>war</packaging>
 
 	<properties>
 		<java.version>1.8</java.version>

@@ -47,13 +47,13 @@ public class MainController {
                               @RequestParam(name = "page", required = false) Integer page) {
 
         ModelAndView modelAndView = new ModelAndView();
-        modelAndView.setViewName("fragments/main-layout");
+        modelAndView.setViewName("layouts/index");
         modelAndView.addObject("CONTENT", INDEX_TEMPLATE);
 
         categoryId = categoryId == null ? -1L : categoryId;
         page = page == null ? 1 : page;
 
-        PageRequest pageRequest = PageRequest.of(page -1 , 6);
+        PageRequest pageRequest = PageRequest.of(page -1 , 7);
         Page<Article> pages = articleRepository.loadArticles(pageRequest,categoryId);
 
         modelAndView.addObject("totalElements", pages.getTotalElements());
@@ -61,7 +61,7 @@ public class MainController {
         modelAndView.addObject("page", page);
         modelAndView.addObject("visiblePage", 5);
         modelAndView.addObject("article", pages.getContent().get(0));
-        modelAndView.addObject("articles", pages.getContent().subList(1,pages.getContent().size()));
+        modelAndView.addObject("lastArticles", pages.getContent());
 
         return modelAndView;
     }

@@ -49,7 +49,7 @@
                         </div>
                         <div class="col-sm-6">
                             <div class="news-list">
-                                <#list articles as article>
+                                <#list lastArticles as article>
                                     <div class="news-list-item">
                                         <div class="img-wrapper">
                                             <a href="${article.url}" class="thumb">
