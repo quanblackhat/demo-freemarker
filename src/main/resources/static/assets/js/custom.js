@@ -23,6 +23,119 @@ $(document).ready(function () {
     );
     //  page loader
     $(".se-pre-con").fadeOut("slow");
+    //  NewsTicker
+    var owl=$("#NewsTicker");
+    owl.owlCarousel( {
+        autoPlay: 5000, //Set AutoPlay to 5 seconds
+        singleItem: true, transitionStyle: "goDown", pagination: false, navigation: true, navigationText: [ "<i class='ti-angle-left'></i>", "<i class='ti-angle-right'></i>"]
+    }
+    );
+    $('#NewsTicker-rtl').owlCarousel( {
+        rtl: true, loop: true, dots: false, autoplay: true, autoplayTimeout: 5000, //Set AutoPlay to 5 seconds
+        autoplayHoverPause: true, nav: true, navText: [ "<i class='ti-angle-left'></i>", "<i class='ti-angle-right'></i>"], items: 1
+    }
+    );
+    //sideber scroll
+    $('.main-content, .rightSidebar, .leftSidebar').theiaStickySidebar( {
+        additionalMarginTop: 30
+    }
+    );
+    //slider
+    var owl=$("#owl-slider");
+    owl.owlCarousel( {
+        autoPlay: 4000, //Set AutoPlay to 4 seconds
+        singleItem: true, transitionStyle: "fade", navigation: true, navigationText: [ "<i class='ti-angle-left'></i>", "<i class='ti-angle-right'></i>"]
+    }
+    );
+    //slider rtl
+    $('#owl-slider-rtl').owlCarousel( {
+        rtl: true, loop: true, autoplay: true, autoplayTimeout: 6000, //Set AutoPlay to 6 seconds
+        autoplayHoverPause: true, nav: true, navText: [ "<i class='ti-angle-left'></i>", "<i class='ti-angle-right'></i>"], items: 1, responsive: {
+            0: {
+                items: 1
+            }
+            , 479: {
+                items: 1
+            }
+            , 768: {
+                items: 1
+            }
+            , 980: {
+                items: 1
+            }
+            , 1199: {
+                items: 1
+            }
+        }
+    }
+    );
+    //Featured carousel
+    $("#featured-owl").owlCarousel( {
+        autoPlay: 4000, //Set AutoPlay to 4 seconds
+        items: 4, lazyLoad: true, pagination: false, navigation: false
+    }
+    );
+    //Featured carousel rtl
+    $('#featured-owl-rtl').owlCarousel( {
+        rtl: true, loop: true, dots: false, nav: false, items: 4, responsive: {
+            0: {
+                items: 1
+            }
+            , 479: {
+                items: 1
+            }
+            , 768: {
+                items: 2
+            }
+            , 980: {
+                items: 3
+            }
+            , 1199: {
+                items: 4
+            }
+        }
+    }
+    );
+    //Post carousel
+    var owl=$("#post-slider");
+    owl.owlCarousel( {
+        navigation: true, singleItem: true, pagination: false, transitionStyle: "fade", navigationText: [ "<i class='ti-angle-left'></i>", "<i class='ti-angle-right'></i>"]
+    }
+    );
+    //Post carousel
+    var owl=$("#post-slider-2");
+    owl.owlCarousel( {
+        navigation: true, singleItem: true, pagination: false, transitionStyle: "fade", navigationText: [ "<i class='ti-angle-left'></i>", "<i class='ti-angle-right'></i>"]
+    }
+    );
+    //Post carousel rtl
+    $('.post-slider-rtl').owlCarousel( {
+        rtl: true, loop: true, //        lazyLoad: true,
+        dots: false, nav: true, navText: [ "<i class='ti-angle-left'></i>", "<i class='ti-angle-right'></i>"], items: 1, responsive: {
+            0: {
+                items: 1
+            }
+            , 479: {
+                items: 1
+            }
+            , 768: {
+                items: 1
+            }
+            , 980: {
+                items: 1
+            }
+            , 1199: {
+                items: 1
+            }
+        }
+    }
+    );
+    //Post carousel
+    var owl=$("#post-slider-3");
+    owl.owlCarousel( {
+        navigation: true, singleItem: true, pagination: false, transitionStyle: "fade", navigationText: [ "<i class='ti-angle-left'></i>", "<i class='ti-angle-right'></i>"]
+    }
+    );
     //tab
     $(".weather-week>div.list-group>a").click(function (e) {
         e.preventDefault();
@@ -33,7 +146,19 @@ $(document).ready(function () {
         $("div.bhoechie-tab>div.weather-temp-wrap").eq(index).addClass("active");
     }
     );
-
+    //calender
+    $("#datepicker").datepicker();
+    //youtube videos
+    // This key only works for this demo on newspaper
+    // You must create your own at:
+    // https://developers.google.com/youtube/v3/getting-started
+    window.api_key='AIzaSyAroKpLQWTON6y34m5VqGcLCPtOmfLBqh4';
+    // Start two players by ID, with default settings
+    $('#rypp-demo-1').rypp(api_key, {
+        update_title_desc: true, // Default false
+        autoplay: false, autonext: false, loop: false, mute: false, debug: false
+    }
+    );
     //panel tab
     $('.collapse.in').prev('.panel-heading').addClass('active');
     $('#accordion') .on('show.bs.collapse', function (a) {

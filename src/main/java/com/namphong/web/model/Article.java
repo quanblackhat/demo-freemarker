@@ -32,6 +32,17 @@ public class Article implements Serializable {
     @Column(name = "date_create")
     private Long dateCreated;
 
+    @Transient
+    private String url;
+
+    public String getUrl() {
+        return "/detail/" + id;
+    }
+
+    public void setUrl(String url) {
+        this.url = url;
+    }
+
     @ManyToMany(fetch = FetchType.EAGER)
     @JoinTable(name = "category_article",
             joinColumns = @JoinColumn(name = "article_id", referencedColumnName = "id"),

@@ -21,44 +21,63 @@
         });
     });
 </script>
-
-<section class="slider-inner">
-    <div class="container">
-        <div class="row thm-margin">
-            <div class="row slider-right-post thm-margin">
-                <#if (totalElements > 0)>
-                    <div class="row" id="articleTable">
-                        <#list articles as article>
-                            <div class="col-md-4" style="padding-top: 20px">
-                                <div class="slider-post post-height-2">
-                                    <a href="/detail/${article.id}" class="news-image">
-                                        <img src="/images/${article.image}" alt="Ảnh bài viết"
-                                             onerror="this.src='/static/assets/img/default.jpg'">
-                                    </a>
-                                    <div class="post-text">
-                                        <h4><a href="/detail/${article.id}">${article.title}</a></h4>
-                                        <ul class="authar-info">
-                                            <li class="authar hidden-xs hidden-sm"><a href="#">Tác
-                                                    giả: ${article.author}</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </#list>
-                    </div>
-
+<div class="theiaStickySidebar" style="padding-top: 5px">
+    <!-- START POST CATEGORY STYLE ONE (Popular news) -->
+    <div class="post-inner">
+        <!--post header-->
+        <div class="post-head">
+            <h2 class="title"><strong>Bài viết mới</strong></h2>
+        </div>
+        <!-- post body -->
+        <div class="post-body">
+            <div id="post-slider" class="owl-carousel owl-theme">
+                <!-- item one -->
+                <div class="item">
                     <div class="row">
-                        <div class="col-md-12">
-                            <div class="example">
-                                <ul id="pagination" class="pagination super-page"></ul>
-                                <div class="clearfix"></div>
+                        <div class="col-sm-6 main-post-inner bord-right">
+                            <article>
+                                <figure>
+                                    <a href="${article.url}"><img src="/images/${article.image}" alt="Ảnh bài viết"
+                                                                         onerror="this.src='/static/assets/images/default.jpg'"
+                                                    height="242" width="345" class="img-responsive"></a>
+                                </figure>
+                                <div class="post-info">
+                                    <h3><a href="/detail/${article.id}">${article.title}</a></h3>
+                                    <p>${article.header}</p>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="news-list">
+                                <#list articles as article>
+                                    <div class="news-list-item">
+                                        <div class="img-wrapper">
+                                            <a href="${article.url}" class="thumb">
+                                                <img src="/images/${article.image}" alt="Ảnh bài viết"
+                                                     onerror="this.src='/static/assets/images/default.jpg'" class="img-responsive">
+                                            </a>
+                                        </div>
+                                        <div class="post-info-2">
+                                            <h5><a href="${article.url}" class="title">${article.title}</a></h5>
+                                        </div>
+                                    </div>
+                                </#list>
                             </div>
                         </div>
                     </div>
-                <#else>
-                    <h5>
-                        Không tìm thấy bài viết nào.
-                    </h5>
-                </#if>
+                </div>
             </div>
-</section>
+        </div>
+        <!-- Post footer -->
+        <div class="post-footer">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="example">
+                        <ul id="pagination" class="pagination super-page"></ul>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

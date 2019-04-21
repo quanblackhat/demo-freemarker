@@ -1,7 +1,6 @@
 package com.namphong.web.controller;
 
 import com.namphong.web.model.Article;
-import com.namphong.web.model.Category;
 import com.namphong.web.model.Menu;
 import com.namphong.web.repository.ArticleRepository;
 import com.namphong.web.repository.CategoryRepository;
@@ -47,21 +46,22 @@ public class MainController {
     public ModelAndView index(@RequestParam(name = "categoryId", required = false) Long categoryId,
                               @RequestParam(name = "page", required = false) Integer page) {
 
-        ModelAndView modelAndView = this.initView(INDEX_TEMPLATE);
-
+        ModelAndView modelAndView = new ModelAndView();
+        modelAndView.setViewName("fragments/main-layout");
+        modelAndView.addObject("CONTENT", INDEX_TEMPLATE);
 
         categoryId = categoryId == null ? -1L : categoryId;
         page = page == null ? 1 : page;
 
-        PageRequest pageRequest = PageRequest.of(page -1 , 30);
+        PageRequest pageRequest = PageRequest.of(page -1 , 6);
         Page<Article> pages = articleRepository.loadArticles(pageRequest,categoryId);
-
 
         modelAndView.addObject("totalElements", pages.getTotalElements());
         modelAndView.addObject("totalPages", pages.getTotalPages());
         modelAndView.addObject("page", page);
         modelAndView.addObject("visiblePage", 5);
-        modelAndView.addObject("articles", pages.getContent());
+        modelAndView.addObject("article", pages.getContent().get(0));
+        modelAndView.addObject("articles", pages.getContent().subList(1,pages.getContent().size()));
 
         return modelAndView;
     }
@@ -73,7 +73,10 @@ public class MainController {
     @GetMapping("/detail/{id}")
     public ModelAndView viewDetail(@PathVariable(value="id") Long id) {
 
-        ModelAndView modelAndView = this.initView(DETAIL_TEMPLATE);
+        ModelAndView modelAndView = new ModelAndView();
+        modelAndView.setViewName("fragments/detail-layout");
+        modelAndView.addObject("CONTENT", DETAIL_TEMPLATE);
+
         Optional<Article> articleOptional = articleRepository.findById(id);
         if (articleOptional.isPresent()) {
             modelAndView.addObject("article", articleOptional.get());
@@ -88,7 +91,11 @@ public class MainController {
     @GetMapping("/about")
     public ModelAndView about() {
 
-        return this.initView(ABOUT_TEMPLATE);
+        ModelAndView modelAndView = new ModelAndView();
+        modelAndView.setViewName("fragments/about-contact-layout");
+        modelAndView.addObject("CONTENT", ABOUT_TEMPLATE);
+        modelAndView.addObject("title", "Về chúng tôi");
+        return modelAndView;
     }
 
     /**
@@ -98,21 +105,14 @@ public class MainController {
     @GetMapping("/contact")
     public ModelAndView contact() {
 
-        return this.initView(CONTACT_TEMPLATE);
-    }
-
-
-
-
-
-    private ModelAndView initView(String contentFragment) {
-
         ModelAndView modelAndView = new ModelAndView();
-        modelAndView.setViewName("fragments/main");
-        modelAndView.addObject("CONTENT", contentFragment);
+        modelAndView.setViewName("fragments/about-contact-layout");
+        modelAndView.addObject("CONTENT", CONTACT_TEMPLATE);
 
+        modelAndView.addObject("title", "Liên hệ với chúng tôi");
         return modelAndView;
     }
+
 
     /**
      * Add dynamic component such as menu, category,..
@@ -123,15 +123,6 @@ public class MainController {
         //Dynamic Menu
         List<Menu> menus = menuRepository.findParentMenu();
         model.addAttribute("menus", menus);
-        model.addAttribute("menu", menus.get(0));
-
-        //Dynamic Category
-//        List<Category> categories = categoryRepository.findAll();
-//        model.addAttribute("categories", categories);
-
-        //Recently article
-//        List<Article> recentArticles = articleRepository.findTop3ByOrderByDateCreatedDesc();
-//        model.addAttribute("recentArticles", recentArticles);
     }
 
 }
