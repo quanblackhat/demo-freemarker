@@ -8,7 +8,7 @@
                         <#list lastArticles as article>
                         <div class="item">
                             <div class="slider-post post-height-1">
-                                <a href="#" class="news-image"><img src="/images/${article.image}" alt="Ảnh bài viết"
+                                <a href="${article.url}" class="news-image"><img src="/images/${article.image}" alt="Ảnh bài viết"
                                                                     onerror="this.src='/static/assets/images/default.jpg'" class="img-responsive"></a>
                                 <div class="post-text">
                                     <h2><a href="${article.url}">${article.title}</a></h2>

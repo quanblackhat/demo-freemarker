@@ -151,12 +151,13 @@
             <div role="tabpanel" class="tab-pane fade in active" id="home">
 
                 <div class="most-viewed">
-                    <ul id="most-today" class="content tabs-content">
-                        <li><span class="count">01</span><span class="text"><a href="#">South Africa bounce back on eventful day</a></span></li>
-                        <li><span class="count">02</span><span class="text"><a href="#">Steyn ruled out of series with shoulder fracture</a></span></li>
-                        <li><span class="count">03</span><span class="text"><a href="#">BCCI asks ECB to bear expenses of team's India tour</a></span></li>
-                        <li><span class="count">04</span><span class="text"><a href="#">Duminy, Elgar tons set Australia huge target</a></span></li>
-                        <li><span class="count">05</span><span class="text"><a href="#">English spinners are third-class citizens, says Graeme Swann</a></span></li>
+                    <id="most-today" class="content tabs-content">
+                        <#list lastArticles as article>
+                        <li><span class="count">${article?index + 1}</span><span class="text"><a href="${article.url}">${article.title}</a></span></li>
+                        <#if article?index == 4>
+                        <#break>
+                        </#if>
+                        </#list>
                     </ul>
                 </div>
             </div>

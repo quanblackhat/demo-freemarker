@@ -1,7 +1,7 @@
 <div class="post-inner">
     <!--post header-->
     <div class="post-head">
-        <h2 class="title"><strong>Bài viết mới</strong></h2>
+        <h2 class="title"><strong>Popular</strong>Posts</h2>
         <div class="filter-nav">
             <ul>
                 <li><a href="#" class="active">all</a></li>
@@ -19,6 +19,60 @@
             <!-- item one -->
             <div class="item">
                 <div class="row">
+                    <#list lastArticles as article>
+                        <#if article?index == 0>
+                            <div class="col-sm-6 main-post-inner bord-right">
+                                <article>
+                                    <figure>
+                                        <a href="${article.url}"><img src="/images/${article.image}" alt="Ảnh bài viết"
+                                                                      onerror="this.src='/static/assets/images/default.jpg'"
+                                                                      height="242" width="345" class="img-responsive"></a>
+                                    </figure>
+                                    <div class="post-info">
+                                        <h3><a href="${article.url}">${article.title}</a></h3>
+                                        <ul class="authar-info">
+                                            <li><i class="ti-timer"></i>${article.dateCreated?string('dd.MM.yyyy')}</li>
+                                            <li class="like"><a href="#"><i class="ti-thumb-up"></i>15 likes</a></li>
+                                        </ul>
+                                        <p>${article.header}</p>
+                                    </div>
+                                </article>
+                            </div>
+                        <#else>
+                            <div class="col-sm-6">
+                                <div class="news-list">
+                                    <div class="news-list-item">
+                                        <div class="img-wrapper">
+                                            <a href="${article.url}" class="thumb">
+                                                <img src="/images/${article.image}" alt="Ảnh bài viết"
+                                                     onerror="this.src='/static/assets/images/default.jpg'" class="img-responsive">
+                                            </a>
+                                        </div>
+                                        <div class="post-info-2">
+                                            <h5><a href="${article.url}" class="title">${article.title}</a></h5>
+                                            <ul class="authar-info">
+                                                <li><i class="ti-timer"></i>${article.dateCreated?string('dd.MM.yyyy')}</li>
+                                                <li class="like hidden-xs hidden-sm"><a href="#"><i class="ti-thumb-up"></i>15 likes</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </#if>
+                        <#if article?index == 4>
+                        <#break>
+                        </#if>
+                    </#list>
+                </div>
+            </div>
+            <!-- item two -->
+            <div class="item">
+                <div class="row">
+                    <#list lastArticles as article>
+                    <#if article?index < 5>
+                    <#continue>
+                    </#if>
+                    <#if article?index == 5>
                     <div class="col-sm-6 main-post-inner bord-right">
                         <article>
                             <figure>
@@ -28,34 +82,41 @@
                             </figure>
                             <div class="post-info">
                                 <h3><a href="${article.url}">${article.title}</a></h3>
+                                <ul class="authar-info">
+                                    <li><i class="ti-timer"></i>${article.dateCreated?string('dd.MM.yyyy')}</li>
+                                    <li class="like"><a href="#"><i class="ti-thumb-up"></i>15 likes</a></li>
+                                </ul>
                                 <p>${article.header}</p>
                             </div>
                         </article>
                     </div>
+                    <#else>
                     <div class="col-sm-6">
                         <div class="news-list">
-                            <#list lastArticles as article>
-                                <div class="news-list-item">
-                                    <div class="img-wrapper">
-                                        <a href="${article.url}" class="thumb">
-                                            <img src="/images/${article.image}" alt="Ảnh bài viết"
-                                                 onerror="this.src='/static/assets/images/default.jpg'" class="img-responsive">
-                                        </a>
-                                    </div>
-                                    <div class="post-info-2">
-                                        <h5><a href="${article.url}" class="title">${article.title}</a></h5>
-                                    </div>
+                            <div class="news-list-item">
+                                <div class="img-wrapper">
+                                    <a href="${article.url}" class="thumb">
+                                        <img src="/images/${article.image}" alt="Ảnh bài viết"
+                                             onerror="this.src='/static/assets/images/default.jpg'" class="img-responsive">
+                                    </a>
                                 </div>
-                                <#if article?index == 4>
-                                    <#break>
-                                </#if>
-                            </#list>
+                                <div class="post-info-2">
+                                    <h5><a href="${article.url}" class="title">${article.title}</a></h5>
+                                    <ul class="authar-info">
+                                        <li><i class="ti-timer"></i>${article.dateCreated?string('dd.MM.yyyy')}</li>
+                                        <li class="like hidden-xs hidden-sm"><a href="#"><i class="ti-thumb-up"></i>15 likes</a></li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
+                </#if>
+                <#if article?index == 9>
+                <#break>
+                </#if>
+                </#list>
             </div>
-            <!-- item two -->
-
+            </div>
         </div>
     </div>
     <!-- Post footer -->

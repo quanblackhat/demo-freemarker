@@ -2,6 +2,8 @@ package com.namphong.web.model;
 
 import javax.persistence.*;
 import java.io.Serializable;
+import java.sql.Timestamp;
+import java.util.Date;
 import java.util.List;
 
 @Entity
@@ -30,7 +32,23 @@ public class Article implements Serializable {
     private String author;
 
     @Column(name = "date_create")
-    private Long dateCreated;
+    private Long dateCreatedTimestamp;
+
+    @Transient
+    private Date dateCreated;
+
+    public Date getDateCreated() {
+        if (dateCreatedTimestamp != null) {
+            Timestamp ts=new Timestamp(dateCreatedTimestamp*1000);
+            Date date=new Date(ts.getTime());
+            return date;
+        }
+        return null;
+    }
+
+    public void setDateCreated(Date dateCreated) {
+        this.dateCreated = dateCreated;
+    }
 
     @Transient
     private String url;
@@ -108,11 +126,11 @@ public class Article implements Serializable {
         this.author = author;
     }
 
-    public Long getDateCreated() {
-        return dateCreated;
+    public Long getDateCreatedTimestamp() {
+        return dateCreatedTimestamp;
     }
 
-    public void setDateCreated(Long dateCreated) {
-        this.dateCreated = dateCreated;
+    public void setDateCreatedTimestamp(Long dateCreatedTimestamp) {
+        this.dateCreatedTimestamp = dateCreatedTimestamp;
     }
 }

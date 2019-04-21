@@ -1,15 +1,35 @@
-<div class="header-mid hidden-xs">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-4">
-                <div class="logo">
-                    <a href="/"><img src="/static/assets/images/logo-white.png" class="img-responsive"
-                                              alt=""></a>
+<header>
+    <#include "/fragments/header-top.ftl">
+
+    <!-- START NAVIGATION -->
+    <nav class="navbar navbar-default navbar-sticky navbar-mobile bootsnav">
+        <!-- Start Top Search -->
+        <div class="top-search">
+            <div class="container">
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                    <input type="text" class="form-control" placeholder="Search">
+                    <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
                 </div>
             </div>
-            <div class="col-sm-8">
-                <a href="#"><img src="/static/assets/images/add728x90-1.jpg" class="img-responsive" alt=""></a>
-            </div>
         </div>
-    </div>
-</div>
+        <!-- End Top Search -->
+        <div class="container">
+            <!-- Start Atribute Navigation -->
+            <div class="attr-nav">
+                <ul>
+                    <li class="search"><a href="#"><i class="fa fa-search"></i></a></li>
+                </ul>
+            </div>
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand hidden-sm hidden-md hidden-lg" href="#brand"><img src="/static/assets/images/logo.png" class="logo" alt=""></a>
+            </div>
+            <!-- End Header Navigation -->
+            <#include "/fragments/menu.ftl">
+        </div>
+    </nav>
+    <!-- END OF/. NAVIGATION -->
+</header>

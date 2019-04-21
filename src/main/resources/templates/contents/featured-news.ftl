@@ -19,7 +19,7 @@
                                     <span class="post-category">Business</span>
                                     <h4>${article.title}</h4>
                                     <ul class="authar-info">
-                                        <li><i class="ti-timer"></i> ${article.dateCreated}</li>
+                                        <li><i class="ti-timer"></i> ${article.dateCreatedTimestamp}</li>
                                         <li class="like"><a href="#"><i class="ti-thumb-up"></i>15 likes</a></li>
                                     </ul>
                                 </div>

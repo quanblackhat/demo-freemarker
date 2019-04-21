@@ -49,41 +49,7 @@
         <!-- PAGE LOADER -->
         <div class="se-pre-con"></div>
         <!-- *** START PAGE HEADER SECTION *** -->
-        <header>
-            <#include "/fragments/header-top.ftl">
-
-            <!-- START NAVIGATION -->
-            <nav class="navbar navbar-default navbar-sticky navbar-mobile bootsnav">
-                <!-- Start Top Search -->
-                <div class="top-search">
-                    <div class="container">
-                        <div class="input-group">
-                            <span class="input-group-addon"><i class="fa fa-search"></i></span>
-                            <input type="text" class="form-control" placeholder="Search">
-                            <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Top Search -->
-                <div class="container">            
-                    <!-- Start Atribute Navigation -->
-                    <div class="attr-nav">
-                        <ul>
-                            <li class="search"><a href="#"><i class="fa fa-search"></i></a></li>
-                        </ul>
-                    </div>
-                    <div class="navbar-header">
-                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                            <i class="fa fa-bars"></i>
-                        </button>
-                        <a class="navbar-brand hidden-sm hidden-md hidden-lg" href="#brand"><img src="/static/assets/images/logo.png" class="logo" alt=""></a>
-                    </div>
-                    <!-- End Header Navigation -->
-                    <#include "/fragments/menu.ftl">
-                </div>
-            </nav>
-            <!-- END OF/. NAVIGATION -->
-        </header>
+        <#include "/fragments/header.ftl">
         <!-- *** END OF /. PAGE HEADER SECTION *** -->
         <!-- *** START PAGE MAIN CONTENT *** -->
         <main class="page_main_wrapper">
@@ -98,7 +64,7 @@
                                 <img src="/static/assets/images/add728x90-1.jpg" class="img-responsive" alt="">
                             </div>
                             <#--todo-->
-                            <#include "/fragments/travel-news.ftl">
+                            <#include "/contents/travel-news.ftl">
                         </div>
                     </div>
                     <div class="col-sm-4 col-p rightSidebar">
@@ -114,9 +80,9 @@
             <#include "/fragments/youtube-video.ftl">
             <!-- END OF /. YOUTUBE VIDEO -->
 
-            <#include "/fragments/more-news.ftl">
+            <#include "/contents/more-news.ftl">
 
-            <#include "/fragments/national-news.ftl">
+            <#include "/contents/lastest-news.ftl">
         </main>
         <!-- *** END OF /. PAGE MAIN CONTENT *** -->
         <!-- *** START FOOTER *** -->

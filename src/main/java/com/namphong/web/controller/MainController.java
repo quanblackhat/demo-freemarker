@@ -22,10 +22,10 @@ import java.util.Optional;
 @Controller
 public class MainController {
 
-    private static final String INDEX_TEMPLATE      =  "/contents/index.ftl";
-    private static final String DETAIL_TEMPLATE     =  "/contents/detail.ftl";
-    private static final String ABOUT_TEMPLATE     =  "/contents/about.ftl";
-    private static final String CONTACT_TEMPLATE     =  "/contents/contact.ftl";
+    private static final String INDEX_TEMPLATE          =  "layouts/index";
+    private static final String DETAIL_TEMPLATE         =  "layouts/detail";
+    private static final String ABOUT_TEMPLATE          =  "layouts/about";
+    private static final String CONTACT_TEMPLATE        =  "layouts/contact";
 
     final ArticleRepository articleRepository;
     final CategoryRepository categoryRepository;
@@ -47,13 +47,13 @@ public class MainController {
                               @RequestParam(name = "page", required = false) Integer page) {
 
         ModelAndView modelAndView = new ModelAndView();
-        modelAndView.setViewName("layouts/index");
-        modelAndView.addObject("CONTENT", INDEX_TEMPLATE);
+        modelAndView.setViewName(INDEX_TEMPLATE);
+//        modelAndView.addObject("CONTENT", INDEX_TEMPLATE);
 
         categoryId = categoryId == null ? -1L : categoryId;
         page = page == null ? 1 : page;
 
-        PageRequest pageRequest = PageRequest.of(page -1 , 7);
+        PageRequest pageRequest = PageRequest.of(page -1 , 10);
         Page<Article> pages = articleRepository.loadArticles(pageRequest,categoryId);
 
         modelAndView.addObject("totalElements", pages.getTotalElements());
@@ -74,13 +74,25 @@ public class MainController {
     public ModelAndView viewDetail(@PathVariable(value="id") Long id) {
 
         ModelAndView modelAndView = new ModelAndView();
-        modelAndView.setViewName("fragments/detail-layout");
-        modelAndView.addObject("CONTENT", DETAIL_TEMPLATE);
+        modelAndView.setViewName(DETAIL_TEMPLATE);
 
         Optional<Article> articleOptional = articleRepository.findById(id);
         if (articleOptional.isPresent()) {
             modelAndView.addObject("article", articleOptional.get());
         }
+
+        Long categoryId = -1L;
+
+        PageRequest pageRequest = PageRequest.of(0 , 3);
+        Page<Article> pages = articleRepository.loadArticles(pageRequest,categoryId);
+        modelAndView.addObject("relatedArticlesOne", pages.getContent());
+        modelAndView.addObject("mostView", pages.getContent());
+
+        pageRequest = PageRequest.of(1 , 3);
+        pages = articleRepository.loadArticles(pageRequest,categoryId);
+        modelAndView.addObject("relatedArticlesTwo", pages.getContent());
+
+
         return modelAndView;
     }
 
@@ -92,9 +104,7 @@ public class MainController {
     public ModelAndView about() {
 
         ModelAndView modelAndView = new ModelAndView();
-        modelAndView.setViewName("fragments/about-contact-layout");
-        modelAndView.addObject("CONTENT", ABOUT_TEMPLATE);
-        modelAndView.addObject("title", "Về chúng tôi");
+        modelAndView.setViewName(ABOUT_TEMPLATE);
         return modelAndView;
     }
 
@@ -106,10 +116,8 @@ public class MainController {
     public ModelAndView contact() {
 
         ModelAndView modelAndView = new ModelAndView();
-        modelAndView.setViewName("fragments/about-contact-layout");
-        modelAndView.addObject("CONTENT", CONTACT_TEMPLATE);
+        modelAndView.setViewName(CONTACT_TEMPLATE);
 
-        modelAndView.addObject("title", "Liên hệ với chúng tôi");
         return modelAndView;
     }
 

@@ -16,10 +16,10 @@ public interface ArticleRepository extends JpaRepository<Article, Long> {
             + " FROM Article article"
             + " LEFT JOIN article.categories category"
             + " WHERE ((:categoryId = -1L) OR (category.id = :categoryId))"
-            + " ORDER BY article.id DESC ")
+            + " ORDER BY article.dateCreatedTimestamp DESC ")
     Page<Article> loadArticles(Pageable pageable, @Param("categoryId") Long categoryId);
 
-    List<Article> findTop3ByOrderByDateCreatedDesc();
+    List<Article> findTop3ByOrderByDateCreatedTimestampDesc();
 
 
 }
