@@ -1,7 +1,7 @@
 <div class="post-inner post-inner-2">
     <!--post header-->
     <div class="post-head">
-        <h2 class="title"><strong>Travel</strong> News</h2>
+        <h2 class="title"><strong>Tuyển Sinh</strong></h2>
         <div class="filter-nav">
             <ul>
                 <li><a href="#" class="active">all</a></li>
@@ -19,7 +19,7 @@
             <!-- item one -->
             <div class="item">
                 <div class="row">
-                    <#list lastArticles as article>
+                    <#list admissionsArticles as article>
                     <#if article?index == 0>
                     <div class="col-sm-6 main-post-inner bord-right">
                         <article>
@@ -44,7 +44,7 @@
                     <div class="col-sm-6">
                         <div class="news-grid-2">
                             <div class="row row-margin">
-                                <#list lastArticles as article>
+                                <#list admissionsArticles as article>
                                 <#if article?index == 0>
                                 <#continue>
                                 </#if>
@@ -77,7 +77,7 @@
             <!-- item one -->
             <div class="item">
                 <div class="row">
-                    <#list lastArticles as article>
+                    <#list admissionsArticles as article>
                     <#if article?index == 4>
                     <div class="col-sm-6 main-post-inner bord-right">
                         <article>
@@ -102,7 +102,7 @@
                     <div class="col-sm-6">
                         <div class="news-grid-2">
                             <div class="row row-margin">
-                                <#list lastArticles as article>
+                                <#list admissionsArticles as article>
                                 <#if article?index < 6>
                                 <#continue>
                                 </#if>
@@ -115,7 +115,7 @@
                                                 <div class="link-icon"><i class="fa fa-play"></i></div>
                                             </a>
                                         </div>
-                                        <h5><a href="${article.url}" class="title">{article.title}</a></h5>
+                                        <h5><a href="${article.url}" class="title">${article.title}</a></h5>
                                         <ul class="authar-info">
                                             <li>${article.dateCreated?string('dd.MM.yyyy')}</li>
                                             <li class="like hidden-sm"><a href="#">15 likes</a></li>

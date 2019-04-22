@@ -3,6 +3,7 @@ package com.namphong.web.model;
 import javax.persistence.*;
 import java.io.Serializable;
 import java.sql.Timestamp;
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
@@ -61,11 +62,11 @@ public class Article implements Serializable {
         this.url = url;
     }
 
-    @ManyToMany(fetch = FetchType.EAGER)
+    @ManyToMany(fetch = FetchType.LAZY)
     @JoinTable(name = "category_article",
             joinColumns = @JoinColumn(name = "article_id", referencedColumnName = "id"),
             inverseJoinColumns = @JoinColumn(name = "category_id", referencedColumnName = "id"))
-    private List<Category> categories;
+    private List<Category> categories = new ArrayList<>();
 
     public List<Category> getCategories() {
         return categories;

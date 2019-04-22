@@ -1,10 +1,9 @@
 package com.namphong.web.model;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.persistence.*;
 import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.List;
 
 @Entity
 @Table(name = "category")
@@ -22,6 +21,19 @@ public class Category implements Serializable {
     @Column(name = "name")
     private String name;
 
+    @ManyToMany(fetch = FetchType.LAZY)
+    @JoinTable(name = "category_article",
+            joinColumns = @JoinColumn(name = "category_id", referencedColumnName = "id"),
+            inverseJoinColumns = @JoinColumn(name = "article_id", referencedColumnName = "id"))
+    private List<Article> articles = new ArrayList<>();
+
+    public List<Article> getArticles() {
+        return articles;
+    }
+
+    public void setArticles(List<Article> articles) {
+        this.articles = articles;
+    }
 
     public Category() {
     }

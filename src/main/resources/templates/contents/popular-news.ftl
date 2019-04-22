@@ -1,7 +1,7 @@
 <div class="post-inner">
     <!--post header-->
     <div class="post-head">
-        <h2 class="title"><strong>Popular</strong>Posts</h2>
+        <h2 class="title"><strong>Tin quốc tế</strong></h2>
         <div class="filter-nav">
             <ul>
                 <li><a href="#" class="active">all</a></li>
@@ -19,7 +19,7 @@
             <!-- item one -->
             <div class="item">
                 <div class="row">
-                    <#list lastArticles as article>
+                    <#list internationalArticles as article>
                         <#if article?index == 0>
                             <div class="col-sm-6 main-post-inner bord-right">
                                 <article>
@@ -68,7 +68,7 @@
             <!-- item two -->
             <div class="item">
                 <div class="row">
-                    <#list lastArticles as article>
+                    <#list internationalArticles as article>
                     <#if article?index < 5>
                     <#continue>
                     </#if>
