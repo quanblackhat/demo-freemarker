@@ -7,6 +7,7 @@ import com.namphong.web.repository.ArticleRepository;
 import com.namphong.web.repository.CategoryRepository;
 import com.namphong.web.repository.MenuRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Controller;
@@ -37,6 +38,9 @@ public class MainController {
     final ArticleRepository articleRepository;
     final CategoryRepository categoryRepository;
     final MenuRepository menuRepository;
+
+    @Value("${server.servlet.context-path}")
+    private String contextPath;
 
     @Autowired
     public MainController(ArticleRepository articleRepository, CategoryRepository categoryRepository, MenuRepository menuRepository) {
@@ -184,7 +188,7 @@ public class MainController {
         //Dynamic Menu
         List<Menu> menus = menuRepository.findParentMenu();
         model.addAttribute("menus", menus);
-        model.addAttribute("contextPath", "/abc");
+        model.addAttribute("contextPath", contextPath);
     }
 
 }
