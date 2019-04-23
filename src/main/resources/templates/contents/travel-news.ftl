@@ -24,8 +24,8 @@
                     <div class="col-sm-6 main-post-inner bord-right">
                         <article>
                             <figure>
-                                <a href="${article.url}"><img src="images/${article.image}"
-                                                onerror="this.src='static/assets/images/default.jpg'" height="242" width="345" alt="" class="img-responsive"></a>
+                                <a href="${article.url}"><img src="/images/${article.image}"
+                                                onerror="this.src='/static/assets/images/default.jpg'" height="242" width="345" alt="" class="img-responsive"></a>
                                 <span class="post-category">Travel</span>
                             </figure>
                             <div class="post-info">
@@ -52,8 +52,8 @@
                                     <div class="grid-item">
                                         <div class="grid-item-img">
                                             <a href="${article.url}">
-                                                <img src="images/${article.image}"
-                                                     onerror="this.src='static/assets/images/default.jpg'" class="img-responsive" alt="">
+                                                <img src="/images/${article.image}"
+                                                     onerror="this.src='/static/assets/images/default.jpg'" class="img-responsive" alt="">
                                                 <div class="link-icon"><i class="fa fa-play"></i></div>
                                             </a>
                                         </div>
@@ -82,8 +82,8 @@
                     <div class="col-sm-6 main-post-inner bord-right">
                         <article>
                             <figure>
-                                <a href="${article.title}"><img src="images/${article.image}"
-                                                onerror="this.src='static/assets/images/default.jpg'" height="242" width="345" alt="" class="img-responsive"></a>
+                                <a href="${article.title}"><img src="/images/${article.image}"
+                                                onerror="this.src='/static/assets/images/default.jpg'" height="242" width="345" alt="" class="img-responsive"></a>
                                 <span class="post-category">Travel</span>
                             </figure>
                             <div class="post-info">
@@ -110,8 +110,8 @@
                                     <div class="grid-item">
                                         <div class="grid-item-img">
                                             <a href="${article.url}">
-                                                <img src="images/${article.image}"
-                                                     onerror="this.src='static/assets/images/default.jpg'" class="img-responsive" alt="">
+                                                <img src="/images/${article.image}"
+                                                     onerror="this.src='/static/assets/images/default.jpg'" class="img-responsive" alt="">
                                                 <div class="link-icon"><i class="fa fa-play"></i></div>
                                             </a>
                                         </div>

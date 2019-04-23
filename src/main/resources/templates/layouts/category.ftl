@@ -8,42 +8,42 @@
         <title>I-news</title>
 
         <!-- Favicon and touch icons -->
-        <link rel="shortcut icon" href="static/assets/images/ico/favicon.png" type="image/x-icon">
-        <link rel="apple-touch-icon" type="image/x-icon" href="static/assets/images/ico/apple-touch-icon-57-precomposed.png">
-        <link rel="apple-touch-icon" type="image/x-icon" sizes="72x72" href="static/assets/images/ico/apple-touch-icon-72-precomposed.png">
-        <link rel="apple-touch-icon" type="image/x-icon" sizes="114x114" href="static/assets/images/ico/apple-touch-icon-114-precomposed.png">
-        <link rel="apple-touch-icon" type="image/x-icon" sizes="144x144" href="static/assets/images/ico/apple-touch-icon-144-precomposed.png">
+        <link rel="shortcut icon" href="/static/assets/images/ico/favicon.png" type="image/x-icon">
+        <link rel="apple-touch-icon" type="image/x-icon" href="/static/assets/images/ico/apple-touch-icon-57-precomposed.png">
+        <link rel="apple-touch-icon" type="image/x-icon" sizes="72x72" href="/static/assets/images/ico/apple-touch-icon-72-precomposed.png">
+        <link rel="apple-touch-icon" type="image/x-icon" sizes="114x114" href="/static/assets/images/ico/apple-touch-icon-114-precomposed.png">
+        <link rel="apple-touch-icon" type="image/x-icon" sizes="144x144" href="/static/assets/images/ico/apple-touch-icon-144-precomposed.png">
 
         <!-- jquery ui css -->
-        <link href="static/assets/css/jquery-ui.min.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/css/jquery-ui.min.css" rel="stylesheet" type="text/css"/>
         <!-- Bootstrap -->
-        <link href="static/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <!--Animate css-->
-        <link href="static/assets/css/animate.min.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/css/animate.min.css" rel="stylesheet" type="text/css"/>
         <!-- Navigation css-->
-        <link href="static/assets/bootsnav/css/bootsnav.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/bootsnav/css/bootsnav.css" rel="stylesheet" type="text/css"/>
         <!-- youtube css -->
-        <link href="static/assets/css/RYPP.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/css/RYPP.css" rel="stylesheet" type="text/css"/>
         <!-- font awesome -->
-        <link href="static/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
         <!-- themify-icons -->
-        <link href="static/assets/themify-icons/themify-icons.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/themify-icons/themify-icons.css" rel="stylesheet" type="text/css"/>
         <!-- weather-icons -->
-        <link href="static/assets/weather-icons/css/weather-icons.min.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/weather-icons/css/weather-icons.min.css" rel="stylesheet" type="text/css"/>
         <!-- flat icon -->
-        <link href="static/assets/css/flaticon.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/css/flaticon.css" rel="stylesheet" type="text/css"/>
         <!-- Important Owl stylesheet -->
-        <link href="static/assets/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css"/>
         <!-- Default Theme -->
-        <link href="static/assets/owl-carousel/owl.theme.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/owl-carousel/owl.theme.css" rel="stylesheet" type="text/css"/>
         <!-- owl transitions -->
-        <link href="static/assets/owl-carousel/owl.transitions.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/owl-carousel/owl.transitions.css" rel="stylesheet" type="text/css"/>
         <!-- style css -->
-        <link href="static/assets/css/style.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/css/style.css" rel="stylesheet" type="text/css"/>
 
-        <script src="static/assets/js/jquery.min.js"></script>
-        <script src="static/assets/js/bootstrap.min.js"></script>
-        <script src="static/assets/js/jquery.twbsPagination.js"></script>
+        <script src="/static/assets/js/jquery.min.js"></script>
+        <script src="/static/assets/js/bootstrap.min.js"></script>
+        <script src="/static/assets/js/jquery.twbsPagination.js"></script>
 
         <script>
             $(document).ready(function () {
@@ -106,8 +106,8 @@
                                     <div class="item">
                                         <div class="slider-post post-height-1">
                                             <a href="${article.url}" class="news-image">
-                                                <img src="images/${article.image}" alt="Ảnh bài viết"
-                                                     onerror="this.src='static/assets/images/default.jpg'" class="img-responsive"></a>
+                                                <img src="/images/${article.image}" alt="Ảnh bài viết"
+                                                     onerror="this.src='/static/assets/images/default.jpg'" class="img-responsive"></a>
                                             <div class="post-text">
                                                 <span class="post-category">Business</span>
                                                 <h2><a href="${article.url}">${article.title}</a></h2>
@@ -129,8 +129,8 @@
                                 <div class="col-xs-6 col-sm-6 col-md-6 thm-padding">
                                     <div class="slider-post post-height-2">
                                         <a href="${article.url}" class="news-image">
-                                            <img src="images/${article.image}" alt="Ảnh bài viết"
-                                                onerror="this.src='static/assets/images/default.jpg'" class="img-responsive"></a>
+                                            <img src="/images/${article.image}" alt="Ảnh bài viết"
+                                                onerror="this.src='/static/assets/images/default.jpg'" class="img-responsive"></a>
                                         <div class="post-text">
                                             <span class="post-category">Photography</span>
                                             <h4><a href="${article.url}">${article.title}</a></h4>
@@ -164,8 +164,8 @@
                                         <div class="col-sm-6 col-p">
                                             <article>
                                                 <figure>
-                                                    <a href="${article.url}"><img src="images/${article.image}" alt="Ảnh bài viết"
-                                                                    onerror="this.src='static/assets/images/default.jpg'" height="242" width="345"  class="img-responsive"></a>
+                                                    <a href="${article.url}"><img src="/images/${article.image}" alt="Ảnh bài viết"
+                                                                    onerror="this.src='/static/assets/images/default.jpg'" height="242" width="345"  class="img-responsive"></a>
                                                     <span class="post-category">Business</span>
                                                 </figure>
                                                 <div class="post-info">
@@ -249,7 +249,7 @@
                             <!-- END OF /. SOCIAL ICON -->
                             <!-- START ADVERTISEMENT -->
                             <div class="add-inner">
-                                <img src="static/assets/images/add320x270-1.jpg" class="img-responsive" alt="">
+                                <img src="/static/assets/images/add320x270-1.jpg" class="img-responsive" alt="">
                             </div>
                             <!-- END OF /. ADVERTISEMENT -->
                             <!-- START NAV TABS -->
@@ -316,16 +316,16 @@
         <!-- END OF /. SUB FOOTER -->
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <!-- jquery ui js -->
-        <script src="static/assets/js/jquery-ui.min.js"></script>
+        <script src="/static/assets/js/jquery-ui.min.js"></script>
         <!-- Bootsnav js -->
-        <script src="static/assets/bootsnav/js/bootsnav.js"></script>
+        <script src="/static/assets/bootsnav/js/bootsnav.js"></script>
         <!-- theia sticky sidebar -->
-        <script src="static/assets/js/theia-sticky-sidebar.js"></script>
+        <script src="/static/assets/js/theia-sticky-sidebar.js"></script>
         <!-- youtube js -->
-        <script src="static/assets/js/RYPP.js"></script>
+        <script src="/static/assets/js/RYPP.js"></script>
         <!-- owl include js plugin -->
-        <script src="static/assets/owl-carousel/owl.carousel.min.js"></script>
+        <script src="/static/assets/owl-carousel/owl.carousel.min.js"></script>
         <!-- custom js -->
-        <script src="static/assets/js/custom.js"></script>
+        <script src="/static/assets/js/custom.js"></script>
     </body>
 </html>

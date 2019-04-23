@@ -4,7 +4,7 @@
             <!-- START FOOTER BOX (About) -->
             <div class="col-sm-3 footer-box">
                 <div class="about-inner">
-                    <img src="static/assets/images/logo-white.png" class="img-responsive" alt=""/>
+                    <img src="/static/assets/images/logo-white.png" class="img-responsive" alt=""/>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy </p>
                     <ul>
                         <li><i class="ti-location-arrow"></i>1234 Heaven Stress, Beverly Hill.</li>
@@ -48,7 +48,7 @@
                     <div class="news-list-item">
                         <div class="img-wrapper">
                             <a href="#" class="thumb">
-                                <img src="static/assets/images/115x85-1.jpg" alt="" class="img-responsive">
+                                <img src="/static/assets/images/115x85-1.jpg" alt="" class="img-responsive">
                                 <div class="link-icon">
                                     <i class="fa fa-camera"></i>
                                 </div>
@@ -64,7 +64,7 @@
                     <div class="news-list-item">
                         <div class="img-wrapper">
                             <a href="#" class="thumb">
-                                <img src="static/assets/images/115x85-2.jpg" alt="" class="img-responsive">
+                                <img src="/static/assets/images/115x85-2.jpg" alt="" class="img-responsive">
                                 <div class="link-icon">
                                     <i class="fa fa-camera"></i>
                                 </div>

@@ -55,7 +55,7 @@ public class Article implements Serializable {
     private String url;
 
     public String getUrl() {
-        return "dddetail/" + id;
+        return "/detail/" + id;
     }
 
     public void setUrl(String url) {

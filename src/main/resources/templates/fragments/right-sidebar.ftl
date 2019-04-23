@@ -137,7 +137,7 @@
     <!-- END OF /. SOCIAL ICON -->
     <!-- START ADVERTISEMENT -->
     <div class="add-inner">
-        <img src="static/assets/images/add320x270-1.jpg" class="img-responsive" alt="">
+        <img src="/static/assets/images/add320x270-1.jpg" class="img-responsive" alt="">
     </div>
     <!-- END OF /. ADVERTISEMENT -->
     <!-- START NAV TABS -->

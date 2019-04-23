@@ -14,7 +14,7 @@
                             <div class="grid-item">
                                 <div class="grid-item-img">
                                     <a href="#">
-                                        <img src="static/assets/images/218x150-1.jpg" class="img-responsive" alt="">
+                                        <img src="/static/assets/images/218x150-1.jpg" class="img-responsive" alt="">
                                         <div class="link-icon"><i class="fa fa-play"></i></div>
                                     </a>
                                 </div>
@@ -29,7 +29,7 @@
                             <div class="grid-item">
                                 <div class="grid-item-img">
                                     <a href="#">
-                                        <img src="static/assets/images/218x150-2.jpg" class="img-responsive" alt="">
+                                        <img src="/static/assets/images/218x150-2.jpg" class="img-responsive" alt="">
                                         <div class="link-icon"><i class="fa fa-camera"></i></div>
                                     </a>
                                 </div>
@@ -44,7 +44,7 @@
                             <div class="grid-item">
                                 <div class="grid-item-img">
                                     <a href="#">
-                                        <img src="static/assets/images/218x150-3.jpg" class="img-responsive" alt="">
+                                        <img src="/static/assets/images/218x150-3.jpg" class="img-responsive" alt="">
                                         <div class="link-icon"><i class="fa fa-camera"></i></div>
                                     </a>
                                 </div>
@@ -66,7 +66,7 @@
                             <div class="grid-item">
                                 <div class="grid-item-img">
                                     <a href="#">
-                                        <img src="static/assets/images/218x150-4.jpg" class="img-responsive" alt="">
+                                        <img src="/static/assets/images/218x150-4.jpg" class="img-responsive" alt="">
                                         <div class="link-icon"><i class="fa fa-play"></i></div>
                                     </a>
                                 </div>
@@ -81,7 +81,7 @@
                             <div class="grid-item">
                                 <div class="grid-item-img">
                                     <a href="#">
-                                        <img src="static/assets/images/218x150-2.jpg" class="img-responsive" alt="">
+                                        <img src="/static/assets/images/218x150-2.jpg" class="img-responsive" alt="">
                                         <div class="link-icon"><i class="fa fa-camera"></i></div>
                                     </a>
                                 </div>
@@ -96,7 +96,7 @@
                             <div class="grid-item">
                                 <div class="grid-item-img">
                                     <a href="#">
-                                        <img src="static/assets/images/218x150-1.jpg" class="img-responsive" alt="">
+                                        <img src="/static/assets/images/218x150-1.jpg" class="img-responsive" alt="">
                                         <div class="link-icon"><i class="fa fa-camera"></i></div>
                                     </a>
                                 </div>
