@@ -25,7 +25,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                     <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand hidden-sm hidden-md hidden-lg" href="#brand"><img src="/static/assets/images/logo.png" class="logo" alt=""></a>
+                <a class="navbar-brand hidden-sm hidden-md hidden-lg" href="#brand"><img src="static/assets/images/logo.png" class="logo" alt=""></a>
             </div>
             <!-- End Header Navigation -->
             <#include "/fragments/menu.ftl">
