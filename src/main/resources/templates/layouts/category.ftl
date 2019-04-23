@@ -61,7 +61,7 @@
                             next: '',
                             last: '&raquo;'
                         }).on('page', function (event, page) {
-                            var url = "/category/${categoryCode}?page=" + page;
+                            var url = "${contextPath}/category/${categoryCode}?page=" + page;
                             window.location.replace(url);
                         });
                     }

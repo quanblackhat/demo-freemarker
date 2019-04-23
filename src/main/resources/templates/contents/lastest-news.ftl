@@ -14,7 +14,7 @@
                     next: '',
                     last: '&raquo;'
                 }).on('page', function (event, page) {
-                    var url = "/?page=" + page;
+                    var url = "${contextPath}/?page=" + page;
                     window.location.replace(url);
                 });
             }
