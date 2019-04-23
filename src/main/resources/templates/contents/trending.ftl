@@ -4,7 +4,7 @@
         <div id="NewsTicker" class="owl-carousel owl-theme">
             <#list lastArticles as article>
             <div class="item">
-                <a href="${article.url}">${article.title}</a>
+                <a href="${contextPath}${article.url}">${article.title}</a>
             </div>
             </#list>
         </div>

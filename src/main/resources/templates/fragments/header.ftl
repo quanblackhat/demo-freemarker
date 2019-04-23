@@ -18,14 +18,14 @@
             <!-- Start Atribute Navigation -->
             <div class="attr-nav">
                 <ul>
-                    <li class="search"><a href="#"><i class="fa fa-search"></i></a></li>
+                    <li class="search"><a href="${contextPath}#"><i class="fa fa-search"></i></a></li>
                 </ul>
             </div>
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                     <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand hidden-sm hidden-md hidden-lg" href="#brand"><img src="/static/assets/images/logo.png" class="logo" alt=""></a>
+                <a class="navbar-brand hidden-sm hidden-md hidden-lg" href="${contextPath}#brand"><img src="${contextPath}/static/assets/images/logo.png" class="logo" alt=""></a>
             </div>
             <!-- End Header Navigation -->
             <#include "/fragments/menu.ftl">

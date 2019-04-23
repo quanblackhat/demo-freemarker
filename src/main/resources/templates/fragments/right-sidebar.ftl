@@ -4,19 +4,19 @@
         <div class="row thm-margin">
             <div class="col-xs-3 col-sm-4 col-md-3 col-lg-3 weather-week thm-padding">
                 <div class="list-group">
-                    <a href="#" class="list-group-item active">
+                    <a href="${contextPath}#" class="list-group-item active">
                         <i class="flaticon-cloudy"></i>
                         <div>Tue, 34°F</div>
                     </a>
-                    <a href="#" class="list-group-item">
+                    <a href="${contextPath}#" class="list-group-item">
                         <i class="flaticon-sun"></i>
                         <div>Wed, 38°F</div>
                     </a>
-                    <a href="#" class="list-group-item">
+                    <a href="${contextPath}#" class="list-group-item">
                         <i class="flaticon-cloud"></i>
                         <div>thu, 32°F</div>
                     </a>
-                    <a href="#" class="list-group-item">
+                    <a href="${contextPath}#" class="list-group-item">
                         <i class="flaticon-rain"></i>
                         <div>Fri, 31°F</div>
                     </a>
@@ -91,42 +91,42 @@
     <div class="social-media-inner">
         <ul class="social-media clearfix">
             <li>
-                <a href="#" class="rss">
+                <a href="${contextPath}#" class="rss">
                     <i class="fa fa-rss"></i>
                     <div>2,035</div>
                     <p>Subscribers</p>
                 </a>
             </li>
             <li>
-                <a href="#" class="fb">
+                <a href="${contextPath}#" class="fb">
                     <i class="fa fa-facebook"></i>
                     <div>3,794</div>
                     <p>Fans</p>
                 </a>
             </li>
             <li>
-                <a href="#" class="g_plus">
+                <a href="${contextPath}#" class="g_plus">
                     <i class="fa fa-google-plus"></i>
                     <div>941</div>
                     <p>Followers</p>
                 </a>
             </li>
             <li>
-                <a href="#" class="you_tube">
+                <a href="${contextPath}#" class="you_tube">
                     <i class="fa fa-youtube-play"></i>
                     <div>7,820</div>
                     <p>Subscribers</p>
                 </a>
             </li>
             <li>
-                <a href="#" class="twitter">
+                <a href="${contextPath}#" class="twitter">
                     <i class="fa fa-twitter"></i>
                     <div>1,562</div>
                     <p>Followers</p>
                 </a>
             </li>
             <li>
-                <a href="#" class="pint">
+                <a href="${contextPath}#" class="pint">
                     <i class="fa fa-pinterest"></i>
                     <div>1,310</div>
                     <p>Followers</p>
@@ -137,14 +137,14 @@
     <!-- END OF /. SOCIAL ICON -->
     <!-- START ADVERTISEMENT -->
     <div class="add-inner">
-        <img src="/static/assets/images/add320x270-1.jpg" class="img-responsive" alt="">
+        <img src="${contextPath}/static/assets/images/add320x270-1.jpg" class="img-responsive" alt="">
     </div>
     <!-- END OF /. ADVERTISEMENT -->
     <!-- START NAV TABS -->
     <div class="tabs-wrapper">
         <ul class="nav nav-tabs" role="tablist">
-            <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Most Viewed</a></li>
-            <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Popular news</a></li>
+            <li role="presentation" class="active"><a href="${contextPath}#home" aria-controls="home" role="tab" data-toggle="tab">Most Viewed</a></li>
+            <li role="presentation"><a href="${contextPath}#profile" aria-controls="profile" role="tab" data-toggle="tab">Popular news</a></li>
         </ul>
         <!-- Tab panels one -->
         <div class="tab-content">
@@ -153,7 +153,7 @@
                 <div class="most-viewed">
                     <id="most-today" class="content tabs-content">
                         <#list lastArticles as article>
-                        <li><span class="count">${article?index + 1}</span><span class="text"><a href="${article.url}">${article.title}</a></span></li>
+                        <li><span class="count">${article?index + 1}</span><span class="text"><a href="${contextPath}${article.url}">${article.title}</a></span></li>
                         <#if article?index == 4>
                         <#break>
                         </#if>
@@ -165,10 +165,10 @@
             <div role="tabpanel" class="tab-pane fade" id="profile">
                 <div class="popular-news">
                     <div class="p-post">
-                        <h4><a href="#">It is a long established fact that a reader will be distracted by  </a></h4>
+                        <h4><a href="${contextPath}#">It is a long established fact that a reader will be distracted by  </a></h4>
                         <ul class="authar-info">
-                            <li class="date"><a href="#"><i class="ti-timer"></i> May 15, 2016</a></li>
-                            <li class="like"><a href="#"><i class="ti-thumb-up"></i>15 likes</a></li>
+                            <li class="date"><a href="${contextPath}#"><i class="ti-timer"></i> May 15, 2016</a></li>
+                            <li class="like"><a href="${contextPath}#"><i class="ti-thumb-up"></i>15 likes</a></li>
                         </ul>
                         <div class="reatting-2">
                             <i class="fa fa-star"></i>
@@ -179,10 +179,10 @@
                         </div>
                     </div>
                     <div class="p-post">
-                        <h4><a href="#">It is a long established fact that a reader will be distracted by  </a></h4>
+                        <h4><a href="${contextPath}#">It is a long established fact that a reader will be distracted by  </a></h4>
                         <ul class="authar-info">
-                            <li class="date"><a href="#"><i class="ti-timer"></i> May 15, 2016</a></li>
-                            <li class="like"><a href="#"><i class="ti-thumb-up"></i>15 likes</a></li>
+                            <li class="date"><a href="${contextPath}#"><i class="ti-timer"></i> May 15, 2016</a></li>
+                            <li class="like"><a href="${contextPath}#"><i class="ti-thumb-up"></i>15 likes</a></li>
                         </ul>
                         <div class="reatting-2">
                             <i class="fa fa-star"></i>
@@ -193,10 +193,10 @@
                         </div>
                     </div>
                     <div class="p-post">
-                        <h4><a href="#">It is a long established fact that a reader will be distracted by  </a></h4>
+                        <h4><a href="${contextPath}#">It is a long established fact that a reader will be distracted by  </a></h4>
                         <ul class="authar-info">
-                            <li class="date"><a href="#"><i class="ti-timer"></i> May 15, 2016</a></li>
-                            <li class="like"><a href="#"><i class="ti-thumb-up"></i>15 likes</a></li>
+                            <li class="date"><a href="${contextPath}#"><i class="ti-timer"></i> May 15, 2016</a></li>
+                            <li class="like"><a href="${contextPath}#"><i class="ti-thumb-up"></i>15 likes</a></li>
                         </ul>
                         <div class="reatting-2">
                             <i class="fa fa-star"></i>

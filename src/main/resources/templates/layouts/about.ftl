@@ -8,38 +8,38 @@
     <title>I-news</title>
 
     <!-- Favicon and touch icons -->
-    <link rel="shortcut icon" href="/static/assets/images/ico/favicon.png" type="image/x-icon">
-    <link rel="apple-touch-icon" type="image/x-icon" href="/static/assets/images/ico/apple-touch-icon-57-precomposed.png">
-    <link rel="apple-touch-icon" type="image/x-icon" sizes="72x72" href="/static/assets/images/ico/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon" type="image/x-icon" sizes="114x114" href="/static/assets/images/ico/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon" type="image/x-icon" sizes="144x144" href="/static/assets/images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="${contextPath}/static/assets/images/ico/favicon.png" type="image/x-icon">
+    <link rel="apple-touch-icon" type="image/x-icon" href="${contextPath}/static/assets/images/ico/apple-touch-icon-57-precomposed.png">
+    <link rel="apple-touch-icon" type="image/x-icon" sizes="72x72" href="${contextPath}/static/assets/images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon" type="image/x-icon" sizes="114x114" href="${contextPath}/static/assets/images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon" type="image/x-icon" sizes="144x144" href="${contextPath}/static/assets/images/ico/apple-touch-icon-144-precomposed.png">
 
     <!-- jquery ui css -->
-    <link href="/static/assets/css/jquery-ui.min.css" rel="stylesheet" type="text/css"/>
+    <link href="${contextPath}/static/assets/css/jquery-ui.min.css" rel="stylesheet" type="text/css"/>
     <!-- Bootstrap -->
-    <link href="/static/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+    <link href="${contextPath}/static/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
     <!--Animate css-->
-    <link href="/static/assets/css/animate.min.css" rel="stylesheet" type="text/css"/>
+    <link href="${contextPath}/static/assets/css/animate.min.css" rel="stylesheet" type="text/css"/>
     <!-- Navigation css-->
-    <link href="/static/assets/bootsnav/css/bootsnav.css" rel="stylesheet" type="text/css"/>
+    <link href="${contextPath}/static/assets/bootsnav/css/bootsnav.css" rel="stylesheet" type="text/css"/>
     <!-- youtube css -->
-    <link href="/static/assets/css/RYPP.css" rel="stylesheet" type="text/css"/>
+    <link href="${contextPath}/static/assets/css/RYPP.css" rel="stylesheet" type="text/css"/>
     <!-- font awesome -->
-    <link href="/static/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+    <link href="${contextPath}/static/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
     <!-- themify-icons -->
-    <link href="/static/assets/themify-icons/themify-icons.css" rel="stylesheet" type="text/css"/>
+    <link href="${contextPath}/static/assets/themify-icons/themify-icons.css" rel="stylesheet" type="text/css"/>
     <!-- weather-icons -->
-    <link href="/static/assets/weather-icons/css/weather-icons.min.css" rel="stylesheet" type="text/css"/>
+    <link href="${contextPath}/static/assets/weather-icons/css/weather-icons.min.css" rel="stylesheet" type="text/css"/>
     <!-- flat icon -->
-    <link href="/static/assets/css/flaticon.css" rel="stylesheet" type="text/css"/>
+    <link href="${contextPath}/static/assets/css/flaticon.css" rel="stylesheet" type="text/css"/>
     <!-- Important Owl stylesheet -->
-    <link href="/static/assets/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css"/>
+    <link href="${contextPath}/static/assets/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css"/>
     <!-- Default Theme -->
-    <link href="/static/assets/owl-carousel/owl.theme.css" rel="stylesheet" type="text/css"/>
+    <link href="${contextPath}/static/assets/owl-carousel/owl.theme.css" rel="stylesheet" type="text/css"/>
     <!-- owl transitions -->
-    <link href="/static/assets/owl-carousel/owl.transitions.css" rel="stylesheet" type="text/css"/>
+    <link href="${contextPath}/static/assets/owl-carousel/owl.transitions.css" rel="stylesheet" type="text/css"/>
     <!-- style css -->
-    <link href="/static/assets/css/style.css" rel="stylesheet" type="text/css"/>
+    <link href="${contextPath}/static/assets/css/style.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
 <!-- PAGE LOADER -->
@@ -60,7 +60,7 @@
                     </p>
                     <div class="breadcrumb">
                         <ul class="clearfix">
-                            <li class="ib"><a href="/index">Home</a></li>
+                            <li class="ib"><a href="${contextPath}/index">Home</a></li>
                             <li class="ib current-page">About</li>
                         </ul>
                     </div>
@@ -88,15 +88,15 @@
                 </div>
                 <!-- end col-12 -->
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <figure class="member"> <img src="/static/assets/images/team/1.png" class="img-responsive" alt="Image">
+                    <figure class="member"> <img src="${contextPath}/static/assets/images/team/1.png" class="img-responsive" alt="Image">
                         <figcaption>
                             <h4>Debora Hilton</h4>
                             <small>Editor</small>
                             <ul>
-                                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                <li><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                <li><a href="${contextPath}#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="${contextPath}#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="${contextPath}#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+                                <li><a href="${contextPath}#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
                             </ul>
                         </figcaption>
                     </figure>
@@ -104,15 +104,15 @@
                 </div>
                 <!-- end col-3 -->
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <figure class="member"> <img src="/static/assets/images/team/2.png" class="img-responsive" alt="Image">
+                    <figure class="member"> <img src="${contextPath}/static/assets/images/team/2.png" class="img-responsive" alt="Image">
                         <figcaption>
                             <h4>Debora Hilton</h4>
                             <small>Editor</small>
                             <ul>
-                                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                <li><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                <li><a href="${contextPath}#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="${contextPath}#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="${contextPath}#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+                                <li><a href="${contextPath}#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
                             </ul>
                         </figcaption>
                     </figure>
@@ -120,15 +120,15 @@
                 </div>
                 <!-- end col-3 -->
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <figure class="member"> <img src="/static/assets/images/team/3.png" class="img-responsive" alt="Image">
+                    <figure class="member"> <img src="${contextPath}/static/assets/images/team/3.png" class="img-responsive" alt="Image">
                         <figcaption>
                             <h4>Chris O'Daniel</h4>
                             <small>Publisher</small>
                             <ul>
-                                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                <li><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                <li><a href="${contextPath}#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="${contextPath}#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="${contextPath}#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+                                <li><a href="${contextPath}#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
                             </ul>
                         </figcaption>
                     </figure>
@@ -136,15 +136,15 @@
                 </div>
                 <!-- end col-3 -->
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <figure class="member"> <img src="/static/assets/images/team/4.png" class="img-responsive" alt="Image">
+                    <figure class="member"> <img src="${contextPath}/static/assets/images/team/4.png" class="img-responsive" alt="Image">
                         <figcaption>
                             <h4>Lian Holden</h4>
                             <small>Project Manager</small>
                             <ul>
-                                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                <li><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                <li><a href="${contextPath}#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="${contextPath}#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="${contextPath}#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+                                <li><a href="${contextPath}#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
                             </ul>
                         </figcaption>
                     </figure>
@@ -171,60 +171,60 @@
                     <div class="col-xs-6 col-sm-3 col-md-3">
                         <div class="grid-item">
                             <div class="grid-item-img">
-                                <a href="#">
-                                    <img src="/static/assets/images/218x150-1.jpg" class="img-responsive" alt="">
+                                <a href="${contextPath}#">
+                                    <img src="${contextPath}/static/assets/images/218x150-1.jpg" class="img-responsive" alt="">
                                     <div class="link-icon"><i class="fa fa-play"></i></div>
                                 </a>
                             </div>
-                            <h5><a href="#" class="title">Lorem Ipsum is simply dummy text of the printing.</a></h5>
+                            <h5><a href="${contextPath}#" class="title">Lorem Ipsum is simply dummy text of the printing.</a></h5>
                             <ul class="authar-info">
                                 <li>May 15, 2016</li>
-                                <li class="hidden-sm"><a href="#" class="link">15 likes</a></li>
+                                <li class="hidden-sm"><a href="${contextPath}#" class="link">15 likes</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-3 col-md-3">
                         <div class="grid-item">
                             <div class="grid-item-img">
-                                <a href="#">
-                                    <img src="/static/assets/images/218x150-2.jpg" class="img-responsive" alt="">
+                                <a href="${contextPath}#">
+                                    <img src="${contextPath}/static/assets/images/218x150-2.jpg" class="img-responsive" alt="">
                                     <div class="link-icon"><i class="fa fa-camera"></i></div>
                                 </a>
                             </div>
-                            <h5><a href="#" class="title">It is a long established fact that a reader will be distracted by</a></h5>
+                            <h5><a href="${contextPath}#" class="title">It is a long established fact that a reader will be distracted by</a></h5>
                             <ul class="authar-info">
                                 <li>May 15, 2016</li>
-                                <li class="hidden-sm"><a href="#" class="link">15 likes</a></li>
+                                <li class="hidden-sm"><a href="${contextPath}#" class="link">15 likes</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="hidden-xs col-sm-3 col-md-3">
                         <div class="grid-item">
                             <div class="grid-item-img">
-                                <a href="#">
-                                    <img src="/static/assets/images/218x150-3.jpg" class="img-responsive" alt="">
+                                <a href="${contextPath}#">
+                                    <img src="${contextPath}/static/assets/images/218x150-3.jpg" class="img-responsive" alt="">
                                     <div class="link-icon"><i class="fa fa-camera"></i></div>
                                 </a>
                             </div>
-                            <h5><a href="#" class="title">There are many variations of passages of Lorem Ipsum.</a></h5>
+                            <h5><a href="${contextPath}#" class="title">There are many variations of passages of Lorem Ipsum.</a></h5>
                             <ul class="authar-info">
                                 <li>May 15, 2016</li>
-                                <li class="hidden-sm"><a href="#" class="link">15 likes</a></li>
+                                <li class="hidden-sm"><a href="${contextPath}#" class="link">15 likes</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="hidden-xs col-sm-3 col-md-3">
                         <div class="grid-item">
                             <div class="grid-item-img">
-                                <a href="#">
-                                    <img src="/static/assets/images/218x150-4.jpg" class="img-responsive" alt="">
+                                <a href="${contextPath}#">
+                                    <img src="${contextPath}/static/assets/images/218x150-4.jpg" class="img-responsive" alt="">
                                     <div class="link-icon"><i class="fa fa-camera"></i></div>
                                 </a>
                             </div>
-                            <h5><a href="#" class="title">There are many variations of passages of Lorem Ipsum.</a></h5>
+                            <h5><a href="${contextPath}#" class="title">There are many variations of passages of Lorem Ipsum.</a></h5>
                             <ul class="authar-info">
                                 <li>May 15, 2016</li>
-                                <li class="hidden-sm"><a href="#" class="link">15 likes</a></li>
+                                <li class="hidden-sm"><a href="${contextPath}#" class="link">15 likes</a></li>
                             </ul>
                         </div>
                     </div>
@@ -241,7 +241,7 @@
             <!-- START FOOTER BOX (About) -->
             <div class="col-sm-3 footer-box">
                 <div class="about-inner">
-                    <img src="/static/assets/images/logo-white.png" class="img-responsive" alt=""/>
+                    <img src="${contextPath}/static/assets/images/logo-white.png" class="img-responsive" alt=""/>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy </p>
                     <ul>
                         <li><i class="ti-location-arrow"></i>1234 Heaven Stress, Beverly Hill.</li>
@@ -256,10 +256,10 @@
                 <div class="twitter-inner">
                     <h3 class="wiget-title">twitter feeds</h3>
                     <ul class="margin-top-60">
-                        <li>Typi non habent claritatem insitam est usus legent is iis qui facit claritatem. Investigatione <a href="https://t.co/erenthemeGHTQ">https://t.co/erenthemeGHTQ</a>
+                        <li>Typi non habent claritatem insitam est usus legent is iis qui facit claritatem. Investigatione <a href="${contextPath}https://t.co/erenthemeGHTQ">https://t.co/erenthemeGHTQ</a>
                             <span><i class="ti-twitter"></i>12 days ago</span>
                         </li>
-                        <li>Typi non habent claritatem insitam est usus legent is <a href="https://t.co/erenthemeGHTQ">https://t.co/erenthemeGHTQ</a>
+                        <li>Typi non habent claritatem insitam est usus legent is <a href="${contextPath}https://t.co/erenthemeGHTQ">https://t.co/erenthemeGHTQ</a>
                             <span><i class="ti-twitter"></i>10 days ago</span>
                         </li>
                     </ul>
@@ -270,11 +270,11 @@
             <div class="col-sm-2 footer-box">
                 <h3 class="wiget-title">Category</h3>
                 <ul class="menu-services">
-                    <li><a href="#">Business</a></li>
-                    <li><a href="#">LifeStyle</a></li>
-                    <li><a href="#">Technology</a></li>
-                    <li><a href="#">Culture</a></li>
-                    <li><a href="#">Entertainment</a></li>
+                    <li><a href="${contextPath}#">Business</a></li>
+                    <li><a href="${contextPath}#">LifeStyle</a></li>
+                    <li><a href="${contextPath}#">Technology</a></li>
+                    <li><a href="${contextPath}#">Culture</a></li>
+                    <li><a href="${contextPath}#">Entertainment</a></li>
                 </ul>
             </div>
             <!-- END OF /. FOOTER BOX (Category) -->
@@ -284,15 +284,15 @@
                 <div class="footer-news-grid">
                     <div class="news-list-item">
                         <div class="img-wrapper">
-                            <a href="#" class="thumb">
-                                <img src="/static/assets/images/115x85-1.jpg" alt="" class="img-responsive">
+                            <a href="${contextPath}#" class="thumb">
+                                <img src="${contextPath}/static/assets/images/115x85-1.jpg" alt="" class="img-responsive">
                                 <div class="link-icon">
                                     <i class="fa fa-camera"></i>
                                 </div>
                             </a>
                         </div>
                         <div class="post-info-2">
-                            <h5><a href="#" class="title">Cooking Recipes Anytime And Anywhere</a></h5>
+                            <h5><a href="${contextPath}#" class="title">Cooking Recipes Anytime And Anywhere</a></h5>
                             <ul class="authar-info">
                                 <li><i class="ti-timer"></i> May 15, 2016</li>
                             </ul>
@@ -300,15 +300,15 @@
                     </div>
                     <div class="news-list-item">
                         <div class="img-wrapper">
-                            <a href="#" class="thumb">
-                                <img src="/static/assets/images/115x85-2.jpg" alt="" class="img-responsive">
+                            <a href="${contextPath}#" class="thumb">
+                                <img src="${contextPath}/static/assets/images/115x85-2.jpg" alt="" class="img-responsive">
                                 <div class="link-icon">
                                     <i class="fa fa-camera"></i>
                                 </div>
                             </a>
                         </div>
                         <div class="post-info-2">
-                            <h5><a href="#" class="title">Cooking Recipes Anytime And Anywhere</a></h5>
+                            <h5><a href="${contextPath}#" class="title">Cooking Recipes Anytime And Anywhere</a></h5>
                             <ul class="authar-info">
                                 <li><i class="ti-timer"></i> May 15, 2016</li>
                             </ul>
@@ -330,11 +330,11 @@
             </div>
             <div class="col-xs-12 col-sm-7 col-md-7">
                 <ul class="footer-nav">
-                    <li><a href="#">Privacy</a></li>
-                    <li><a href="#">Contact</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Donation</a></li>
-                    <li><a href="#">F.A.Q</a></li>
+                    <li><a href="${contextPath}#">Privacy</a></li>
+                    <li><a href="${contextPath}#">Contact</a></li>
+                    <li><a href="${contextPath}#">About</a></li>
+                    <li><a href="${contextPath}#">Donation</a></li>
+                    <li><a href="${contextPath}#">F.A.Q</a></li>
                 </ul>
             </div>
         </div>
@@ -342,20 +342,20 @@
 </div>
 <!-- END OF /. SUB FOOTER -->
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="/static/assets/js/jquery.min.js"></script>
+<script src="${contextPath}/static/assets/js/jquery.min.js"></script>
 <!-- jquery ui js -->
-<script src="/static/assets/js/jquery-ui.min.js"></script>
+<script src="${contextPath}/static/assets/js/jquery-ui.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="/static/assets/js/bootstrap.min.js"></script>
+<script src="${contextPath}/static/assets/js/bootstrap.min.js"></script>
 <!-- Bootsnav js -->
-<script src="/static/assets/bootsnav/js/bootsnav.js"></script>
+<script src="${contextPath}/static/assets/bootsnav/js/bootsnav.js"></script>
 <!-- theia sticky sidebar -->
-<script src="/static/assets/js/theia-sticky-sidebar.js"></script>
+<script src="${contextPath}/static/assets/js/theia-sticky-sidebar.js"></script>
 <!-- youtube js -->
-<script src="/static/assets/js/RYPP.js"></script>
+<script src="${contextPath}/static/assets/js/RYPP.js"></script>
 <!-- owl include js plugin -->
-<script src="/static/assets/owl-carousel/owl.carousel.min.js"></script>
+<script src="${contextPath}/static/assets/owl-carousel/owl.carousel.min.js"></script>
 <!-- custom js -->
-<script src="/static/assets/js/custom.js"></script>
+<script src="${contextPath}/static/assets/js/custom.js"></script>
 </body>
 </html>

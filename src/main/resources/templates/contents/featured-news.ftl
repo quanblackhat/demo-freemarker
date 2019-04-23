@@ -6,7 +6,7 @@
                     <#list internationalArticles as article>
                         <div class="item">
                             <div class="featured-post">
-                                <a href="${article.url}" class="news-image"><img src="/images/${article.image}" alt="Ảnh bài viết"
+                                <a href="${contextPath}${article.url}" class="news-image"><img src="${contextPath}/images/${article.image}" alt="Ảnh bài viết"
                                                                                  onerror="this.src='/static/assets/images/default.jpg'" class="img-responsive"></a>
                                 <div class="reatting">
                                     <i class="fa fa-star"></i>
@@ -20,7 +20,7 @@
                                     <h4>${article.title}</h4>
                                     <ul class="authar-info">
                                         <li><i class="ti-timer"></i>${article.dateCreated?string('dd.MM.yyyy')}</li>
-                                        <li class="like"><a href="#"><i class="ti-thumb-up"></i>15 likes</a></li>
+                                        <li class="like"><a href="${contextPath}#"><i class="ti-thumb-up"></i>15 likes</a></li>
                                     </ul>
                                 </div>
                             </div>

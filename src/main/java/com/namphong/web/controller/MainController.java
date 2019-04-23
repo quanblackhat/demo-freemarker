@@ -184,6 +184,7 @@ public class MainController {
         //Dynamic Menu
         List<Menu> menus = menuRepository.findParentMenu();
         model.addAttribute("menus", menus);
+        model.addAttribute("contextPath", "/abc");
     }
 
 }

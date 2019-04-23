@@ -37,14 +37,14 @@
                             <#list lastArticles as article>
                                 <div class="news-list-item articles-list">
                                     <div class="img-wrapper">
-                                        <a href="#" class="thumb"><img src="/images/${article.image}" alt="Ảnh bài viết"
+                                        <a href="${contextPath}#" class="thumb"><img src="${contextPath}/images/${article.image}" alt="Ảnh bài viết"
                                                                        onerror="this.src='/static/assets/images/default.jpg'" class="img-responsive"></a>
                                     </div>
                                     <div class="post-info-2">
-                                        <h4><a href="${article.url}" class="title">${article.title}</a></h4>
+                                        <h4><a href="${contextPath}${article.url}" class="title">${article.title}</a></h4>
                                         <ul class="authar-info">
                                             <li><i class="ti-timer"></i> ${article.dateCreated?string('dd.MM.yyyy')}</li>
-                                            <li class="like"><a href="#"><i class="ti-thumb-up"></i>15 likes</a></li>
+                                            <li class="like"><a href="${contextPath}#"><i class="ti-thumb-up"></i>15 likes</a></li>
                                         </ul>
                                         <p class="hidden-sm">${article.header}</p>
                                     </div>
@@ -67,15 +67,15 @@
                                         <ul>
                                             <li>
                                                 <div class="share transition">
-                                                    <a href="#" target="_blank" class="ico fb"><i class="fa fa-facebook"></i></a>
-                                                    <a href="#" target="_blank" class="ico tw"><i class="fa fa-twitter"></i></a>
-                                                    <a href="#" target="_blank" class="ico gp"><i class="fa fa-google-plus"></i></a>
-                                                    <a href="#" target="_blank" class="ico pin"><i class="fa fa-pinterest"></i></a>
+                                                    <a href="${contextPath}#" target="_blank" class="ico fb"><i class="fa fa-facebook"></i></a>
+                                                    <a href="${contextPath}#" target="_blank" class="ico tw"><i class="fa fa-twitter"></i></a>
+                                                    <a href="${contextPath}#" target="_blank" class="ico gp"><i class="fa fa-google-plus"></i></a>
+                                                    <a href="${contextPath}#" target="_blank" class="ico pin"><i class="fa fa-pinterest"></i></a>
                                                     <i class="ti-share ico-share"></i>
                                                 </div>
                                             </li>
-                                            <li><a href="#"><i class="ti-heart"></i></a></li>
-                                            <li><a href="#"><i class="ti-twitter"></i></a></li>
+                                            <li><a href="${contextPath}#"><i class="ti-heart"></i></a></li>
+                                            <li><a href="${contextPath}#"><i class="ti-twitter"></i></a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -104,7 +104,7 @@
                                     <li><input id="poll_5444" value="5444" name="poll" type="radio"><label for="poll_5444">Yes, they have invested in developing talent</label></li>
                                     <li><input id="poll_5445" value="5445" name="poll" type="radio"><label for="poll_5445">No, this is restraint of trade</label></li>
                                 </ul>
-                                <a href="#" class="btn btn-news">Submit</a>
+                                <a href="${contextPath}#" class="btn btn-news">Submit</a>
                             </form>
                         </div>
                     </div>

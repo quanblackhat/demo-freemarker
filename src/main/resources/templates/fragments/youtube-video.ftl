@@ -14,7 +14,7 @@
                     <div class="RYPP-playlist">
                         <header>
                             <h2 class="_h1 RYPP-title">Playlist title</h2>
-                            <p class="RYPP-desc">Playlist subtitle <a href="#" target="_blank">#hashtag</a></p>
+                            <p class="RYPP-desc">Playlist subtitle <a href="${contextPath}#" target="_blank">#hashtag</a></p>
                         </header>
                         <div class="RYPP-items"></div>
                     </div>

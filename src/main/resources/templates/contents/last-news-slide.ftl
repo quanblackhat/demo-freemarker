@@ -8,10 +8,10 @@
                         <#list lastArticles as article>
                         <div class="item">
                             <div class="slider-post post-height-1">
-                                <a href="${article.url}" class="news-image"><img src="/images/${article.image}" alt="Ảnh bài viết"
+                                <a href="${contextPath}${article.url}" class="news-image"><img src="${contextPath}/images/${article.image}" alt="Ảnh bài viết"
                                                                     onerror="this.src='/static/assets/images/default.jpg'" class="img-responsive"></a>
                                 <div class="post-text">
-                                    <h2><a href="${article.url}">${article.title}</a></h2>
+                                    <h2><a href="${contextPath}${article.url}">${article.title}</a></h2>
                                     <ul class="authar-info">
                                         <li class="authar"> ${article.author}</li>
                                     </ul>
@@ -27,10 +27,10 @@
                     <#list lastArticles as article>
                     <div class="col-xs-6 col-sm-12 col-md-12 thm-padding">
                         <div class="slider-post post-height-2">
-                            <a href="${article.url}" class="news-image"><img src="/images/${article.image}" alt="Ảnh bài viết"
+                            <a href="${contextPath}${article.url}" class="news-image"><img src="${contextPath}/images/${article.image}" alt="Ảnh bài viết"
                                                                              onerror="this.src='/static/assets/images/default.jpg'" class="img-responsive"></a>
                             <div class="post-text">
-                                <h4><a href="${article.url}">${article.title}</a></h4>
+                                <h4><a href="${contextPath}${article.url}">${article.title}</a></h4>
                                 <ul class="authar-info">
                                     <li class="authar hidden-xs hidden-sm">${article.author}</li>
                                 </ul>

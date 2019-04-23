@@ -4,51 +4,51 @@
         <#--level 1-->
             <#if menu.subMenus?size gt 0>
                 <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">${menu.title}</a>
+                    <a href="${contextPath}#" class="dropdown-toggle" data-toggle="dropdown">${menu.title}</a>
                     <ul class="dropdown-menu">
                         <#list menu.subMenus as menu>
                         <#--level 2-->
                             <#if menu.subMenus?size gt 0>
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">${menu.title}</a>
+                                    <a href="${contextPath}#" class="dropdown-toggle" data-toggle="dropdown">${menu.title}</a>
                                     <ul class="dropdown-menu">
                                         <#list menu.subMenus as menu>
                                         <#--level 3-->
                                             <#if menu.subMenus?size gt 0>
                                                 <li class="dropdown">
-                                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">${menu.title}</a>
+                                                    <a href="${contextPath}#" class="dropdown-toggle" data-toggle="dropdown">${menu.title}</a>
                                                     <ul class="dropdown-menu">
                                                         <#list menu.subMenus as menu>
                                                         <#--level 4-->
                                                             <#if menu.subMenus?size gt 0>
                                                                 <li class="dropdown">
-                                                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">${menu.title}</a>
+                                                                    <a href="${contextPath}#" class="dropdown-toggle" data-toggle="dropdown">${menu.title}</a>
                                                                     <ul class="dropdown-menu">
                                                                         <#list menu.subMenus as menu>
-                                                                            <li><a href="${menu.link}">${menu.title}</a></li>
+                                                                            <li><a href="${contextPath}${menu.link}">${menu.title}</a></li>
                                                                         </#list>
                                                                     </ul>
                                                                 </li>
                                                             <#else>
-                                                                <li><a href="${menu.link}">${menu.title}</a></li>
+                                                                <li><a href="${contextPath}${menu.link}">${menu.title}</a></li>
                                                             </#if>
                                                         </#list>
                                                     </ul>
                                                 </li>
                                             <#else>
-                                                <li><a href="${menu.link}">${menu.title}</a></li>
+                                                <li><a href="${contextPath}${menu.link}">${menu.title}</a></li>
                                             </#if>
                                         </#list>
                                     </ul>
                                 </li>
                             <#else>
-                                <li><a href="${menu.link}">${menu.title}</a></li>
+                                <li><a href="${contextPath}${menu.link}">${menu.title}</a></li>
                             </#if>
                         </#list>
                     </ul>
                 </li>
             <#else>
-                <li><a href="${menu.link}">${menu.title}</a></li>
+                <li><a href="${contextPath}${menu.link}">${menu.title}</a></li>
             </#if>
         </#list>
     </ul>

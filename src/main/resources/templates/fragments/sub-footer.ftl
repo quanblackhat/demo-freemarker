@@ -6,11 +6,11 @@
             </div>
             <div class="col-xs-12 col-sm-7 col-md-7">
                 <ul class="footer-nav">
-                    <li><a href="#">Privacy</a></li>
-                    <li><a href="/contact">Contact</a></li>
-                    <li><a href="/about">About</a></li>
-                    <li><a href="#">Donation</a></li>
-                    <li><a href="#">F.A.Q</a></li>
+                    <li><a href="${contextPath}#">Privacy</a></li>
+                    <li><a href="${contextPath}/contact">Contact</a></li>
+                    <li><a href="${contextPath}/about">About</a></li>
+                    <li><a href="${contextPath}#">Donation</a></li>
+                    <li><a href="${contextPath}#">F.A.Q</a></li>
                 </ul>
             </div>
         </div>

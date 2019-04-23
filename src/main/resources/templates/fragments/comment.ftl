@@ -4,41 +4,41 @@
         <li>
             <div class="comment-main-level">
                 <!-- Avatar -->
-                <div class="comment-avatar"><img src="/static/assets/images/avatar-1.jpg" alt=""></div>
+                <div class="comment-avatar"><img src="${contextPath}/static/assets/images/avatar-1.jpg" alt=""></div>
                 <div class="comment-box">
                     <div class="comment-content">
                         <div class="comment-header"> <cite class="comment-author">- Mozammel Hoque</cite>
                             <time datetime="2012-10-27" class="comment-datetime">25 October 2016 at 12.27 pm</time>
                         </div>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit omnis animi et iure laudantium vitae, praesentium optio, sapiente distinctio illo?</p>
-                        <a href="#"  class="btn btn-news"> Reply</a>
+                        <a href="${contextPath}#"  class="btn btn-news"> Reply</a>
                     </div>
                 </div>
             </div>
             <ul class="comments-list reply-list">
                 <li>
                     <!-- Avatar -->
-                    <div class="comment-avatar"><img src="/static/assets/images/avatar-1.jpg" alt=""></div>
+                    <div class="comment-avatar"><img src="${contextPath}/static/assets/images/avatar-1.jpg" alt=""></div>
                     <div class="comment-box">
                         <div class="comment-content">
                             <div class="comment-header"> <cite class="comment-author">- Tahmina Akthr</cite>
                                 <time datetime="2012-10-27" class="comment-datetime">25 October 2016 at 12.27 pm</time>
                             </div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit omnis animi et iure laudantium vitae, praesentium optio, sapiente distinctio illo?</p>
-                            <a href="#"  class="btn btn-news"> Reply</a>
+                            <a href="${contextPath}#"  class="btn btn-news"> Reply</a>
                         </div>
                     </div>
                 </li>
                 <li>
                     <!-- Avatar -->
-                    <div class="comment-avatar"><img src="/static/assets/images/avatar-1.jpg" alt=""></div>
+                    <div class="comment-avatar"><img src="${contextPath}/static/assets/images/avatar-1.jpg" alt=""></div>
                     <div class="comment-box">
                         <div class="comment-content">
                             <div class="comment-header"> <cite class="comment-author">- Mozammel Hoque</cite>
                                 <time datetime="2012-10-27" class="comment-datetime">25 October 2016 at 12.27 pm</time>
                             </div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit omnis animi et iure laudantium vitae, praesentium optio, sapiente distinctio illo?</p>
-                            <a href="#"  class="btn btn-news"> Reply</a>
+                            <a href="${contextPath}#"  class="btn btn-news"> Reply</a>
                         </div>
                     </div>
                 </li>
@@ -47,14 +47,14 @@
         <li>
             <div class="comment-main-level">
                 <!-- Avatar -->
-                <div class="comment-avatar"><img src="/static/assets/images/avatar-1.jpg" alt=""></div>
+                <div class="comment-avatar"><img src="${contextPath}/static/assets/images/avatar-1.jpg" alt=""></div>
                 <div class="comment-box">
                     <div class="comment-content">
                         <div class="comment-header"> <cite class="comment-author">- Tahmina Akthr</cite>
                             <time datetime="2012-10-27" class="comment-datetime">25 October 2016 at 12.27 pm</time>
                         </div>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit omnis animi et iure laudantium vitae, praesentium optio, sapiente distinctio illo?</p>
-                        <a href="#"  class="btn btn-news"> Reply</a>
+                        <a href="${contextPath}#"  class="btn btn-news"> Reply</a>
                     </div>
                 </div>
             </div>
@@ -94,5 +94,5 @@
         <label for="email">message</label>
         <textarea class="form-control" id="message" name="message" placeholder="Your Comment*" rows="5"></textarea>
     </div>
-    <a href="#"  class="btn btn-news"> Submit</a>
+    <a href="${contextPath}#"  class="btn btn-news"> Submit</a>
 </form>
