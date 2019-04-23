@@ -4,7 +4,7 @@
         <li>
             <div class="comment-main-level">
                 <!-- Avatar -->
-                <div class="comment-avatar"><img src="static/assets/images/avatar-1.jpg" alt=""></div>
+                <div class="comment-avatar"><img src="/static/assets/images/avatar-1.jpg" alt=""></div>
                 <div class="comment-box">
                     <div class="comment-content">
                         <div class="comment-header"> <cite class="comment-author">- Mozammel Hoque</cite>
@@ -18,7 +18,7 @@
             <ul class="comments-list reply-list">
                 <li>
                     <!-- Avatar -->
-                    <div class="comment-avatar"><img src="static/assets/images/avatar-1.jpg" alt=""></div>
+                    <div class="comment-avatar"><img src="/static/assets/images/avatar-1.jpg" alt=""></div>
                     <div class="comment-box">
                         <div class="comment-content">
                             <div class="comment-header"> <cite class="comment-author">- Tahmina Akthr</cite>
@@ -31,7 +31,7 @@
                 </li>
                 <li>
                     <!-- Avatar -->
-                    <div class="comment-avatar"><img src="static/assets/images/avatar-1.jpg" alt=""></div>
+                    <div class="comment-avatar"><img src="/static/assets/images/avatar-1.jpg" alt=""></div>
                     <div class="comment-box">
                         <div class="comment-content">
                             <div class="comment-header"> <cite class="comment-author">- Mozammel Hoque</cite>
@@ -47,7 +47,7 @@
         <li>
             <div class="comment-main-level">
                 <!-- Avatar -->
-                <div class="comment-avatar"><img src="static/assets/images/avatar-1.jpg" alt=""></div>
+                <div class="comment-avatar"><img src="/static/assets/images/avatar-1.jpg" alt=""></div>
                 <div class="comment-box">
                     <div class="comment-content">
                         <div class="comment-header"> <cite class="comment-author">- Tahmina Akthr</cite>

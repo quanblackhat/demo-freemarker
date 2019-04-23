@@ -37,8 +37,8 @@
                         <div class="col-sm-6 main-post-inner bord-right">
                             <article>
                                 <figure>
-                                    <a href="${article.url}"><img src="images/${article.image}" alt="Ảnh bài viết"
-                                                                         onerror="this.src='static/assets/images/default.jpg'"
+                                    <a href="${article.url}"><img src="/images/${article.image}" alt="Ảnh bài viết"
+                                                                         onerror="this.src='/static/assets/images/default.jpg'"
                                                     height="242" width="345" class="img-responsive"></a>
                                 </figure>
                                 <div class="post-info">
@@ -53,8 +53,8 @@
                                     <div class="news-list-item">
                                         <div class="img-wrapper">
                                             <a href="${article.url}" class="thumb">
-                                                <img src="images/${article.image}" alt="Ảnh bài viết"
-                                                     onerror="this.src='static/assets/images/default.jpg'" class="img-responsive">
+                                                <img src="/images/${article.image}" alt="Ảnh bài viết"
+                                                     onerror="this.src='/static/assets/images/default.jpg'" class="img-responsive">
                                             </a>
                                         </div>
                                         <div class="post-info-2">

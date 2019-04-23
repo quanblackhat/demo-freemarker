@@ -26,7 +26,7 @@
                                 <div class="row">
                                     <div class="col-sm-6 main-post-inner bord-right">
                                         <div class="more-post">
-                                            <a href="#" class="news-image"><img src="static/assets/images/620x370-1.jpg" alt="" class="img-responsive"></a>
+                                            <a href="#" class="news-image"><img src="/static/assets/images/620x370-1.jpg" alt="" class="img-responsive"></a>
                                             <div class="progressber" data-percent="80"></div>
                                             <div class="post-text">
                                                 <span class="post-category">Holliday Recipes </span>
@@ -38,7 +38,7 @@
                                             </div>
                                         </div>
                                         <div class="more-post">
-                                            <a href="#" class="news-image"><img src="static/assets/images/620x370-2.jpg" alt="" class="img-responsive"></a>
+                                            <a href="#" class="news-image"><img src="/static/assets/images/620x370-2.jpg" alt="" class="img-responsive"></a>
                                             <div class="reatting">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
@@ -58,7 +58,7 @@
                                     </div>
                                     <div class="col-sm-6">
                                         <div class="more-post">
-                                            <a href="#" class="news-image"><img src="static/assets/images/620x370-3.jpg" alt="" class="img-responsive"></a>
+                                            <a href="#" class="news-image"><img src="/static/assets/images/620x370-3.jpg" alt="" class="img-responsive"></a>
                                             <div class="reatting">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
@@ -76,7 +76,7 @@
                                             </div>
                                         </div>
                                         <div class="more-post">
-                                            <a href="#" class="news-image"><img src="static/assets/images/620x370-4.jpg" alt="" class="img-responsive"></a>
+                                            <a href="#" class="news-image"><img src="/static/assets/images/620x370-4.jpg" alt="" class="img-responsive"></a>
                                             <div class="progressber" data-percent="60"></div>
                                             <div class="post-text">
                                                 <span class="post-category">Business</span>
@@ -95,7 +95,7 @@
                                 <div class="row">
                                     <div class="col-sm-6 main-post-inner bord-right">
                                         <div class="more-post">
-                                            <a href="#" class="news-image"><img src="static/assets/images/620x370-5.jpg" alt="" class="img-responsive"></a>
+                                            <a href="#" class="news-image"><img src="/static/assets/images/620x370-5.jpg" alt="" class="img-responsive"></a>
                                             <div class="progressber" data-percent="80"></div>
                                             <div class="post-text">
                                                 <span class="post-category">Business</span>
@@ -107,7 +107,7 @@
                                             </div>
                                         </div>
                                         <div class="more-post">
-                                            <a href="#" class="news-image"><img src="static/assets/images/620x370-6.jpg" alt="" class="img-responsive"></a>
+                                            <a href="#" class="news-image"><img src="/static/assets/images/620x370-6.jpg" alt="" class="img-responsive"></a>
                                             <div class="reatting">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
@@ -127,7 +127,7 @@
                                     </div>
                                     <div class="col-sm-6">
                                         <div class="more-post">
-                                            <a href="#" class="news-image"><img src="static/assets/images/620x370-7.jpg" alt="" class="img-responsive"></a>
+                                            <a href="#" class="news-image"><img src="/static/assets/images/620x370-7.jpg" alt="" class="img-responsive"></a>
                                             <div class="reatting">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
@@ -145,7 +145,7 @@
                                             </div>
                                         </div>
                                         <div class="more-post">
-                                            <a href="#" class="news-image"><img src="static/assets/images/620x370-8.jpg" alt="" class="img-responsive"></a>
+                                            <a href="#" class="news-image"><img src="/static/assets/images/620x370-8.jpg" alt="" class="img-responsive"></a>
                                             <div class="progressber" data-percent="60"></div>
                                             <div class="post-text">
                                                 <span class="post-category">Business</span>
@@ -190,7 +190,7 @@
                 <!-- END OF /. POST CATEGORY STYLE THREE (More news) -->
                 <!-- START ADVERTISEMENT -->
                 <div class="add-inner">
-                    <img src="static/assets/images/add728x90-1.jpg" class="img-responsive" alt="">
+                    <img src="/static/assets/images/add728x90-1.jpg" class="img-responsive" alt="">
                 </div>
                 <!-- END OF /. ADVERTISEMENT -->
                 <!-- START CARD POST -->
@@ -200,7 +200,7 @@
                             <div class="post-grid post-grid-item">
                                 <figure class="posts-thumb">
                                     <span class="post-category">National</span>
-                                    <a href="#"><img src="static/assets/images/378x270-1.jpg" alt=""></a>
+                                    <a href="#"><img src="/static/assets/images/378x270-1.jpg" alt=""></a>
                                 </figure>
                                 <div class="posts-inner">
                                     <a href="#" class="posts-link"></a>
@@ -216,7 +216,7 @@
                                 <div class="posts__footer card__footer">
                                     <div class="post-author">
                                         <figure class="post-author-avatar hidden-xs">
-                                            <img src="static/assets/images/avatar-1.jpg" alt="Post Author Avatar">
+                                            <img src="/static/assets/images/avatar-1.jpg" alt="Post Author Avatar">
                                         </figure>
                                         <div class="post-author-info ">
                                             <h4 class="post-author-name">Naeem Khan</h4>
@@ -290,7 +290,7 @@
                             <!-- 1st Team -->
                             <div class="games-result-team">
                                 <div class="games-result-team-logo">
-                                    <a href="#"><img src="static/assets/images/game_results_logo_1.png" class="img-responsive" alt=""></a>
+                                    <a href="#"><img src="/static/assets/images/game_results_logo_1.png" class="img-responsive" alt=""></a>
                                 </div>
                                 <div class="games-result-team-info">
                                     <h5 class="games-result-team-name">Alchemists</h5>
@@ -309,7 +309,7 @@
                             <!-- 2nd Team -->
                             <div class="games-result-team">
                                 <div class="games-result-team-logo">
-                                    <a href="#"><img src="static/assets/images/game_results_logo_2.png" class="img-responsive" alt=""></a>
+                                    <a href="#"><img src="/static/assets/images/game_results_logo_2.png" class="img-responsive" alt=""></a>
                                 </div>
                                 <div class="games-result-team-info">
                                     <h5 class="games-result-team-name">Sharks</h5>
@@ -369,7 +369,7 @@
                 <!-- END OF /. CATEGORIES WIDGET -->
                 <!-- START ADVERTISEMENT -->
                 <div class="add-inner">
-                    <img src="static/assets/images/add320x270-1.jpg" class="img-responsive" alt="">
+                    <img src="/static/assets/images/add320x270-1.jpg" class="img-responsive" alt="">
                 </div>
                 <!-- END OF /. ADVERTISEMENT -->
             </div>

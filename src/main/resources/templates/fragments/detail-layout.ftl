@@ -8,25 +8,25 @@
         <title>I-news</title>
 
         <!-- Favicon and touch icons -->
-        <link rel="shortcut icon" href="static/assets/images/ico/favicon.png" type="image/x-icon">
-        <link rel="apple-touch-icon" type="image/x-icon" href="static/assets/images/ico/apple-touch-icon-57-precomposed.png">
-        <link rel="apple-touch-icon" type="image/x-icon" sizes="72x72" href="static/assets/images/ico/apple-touch-icon-72-precomposed.png">
-        <link rel="apple-touch-icon" type="image/x-icon" sizes="114x114" href="static/assets/images/ico/apple-touch-icon-114-precomposed.png">
-        <link rel="apple-touch-icon" type="image/x-icon" sizes="144x144" href="static/assets/images/ico/apple-touch-icon-144-precomposed.png">
+        <link rel="shortcut icon" href="/static/assets/images/ico/favicon.png" type="image/x-icon">
+        <link rel="apple-touch-icon" type="image/x-icon" href="/static/assets/images/ico/apple-touch-icon-57-precomposed.png">
+        <link rel="apple-touch-icon" type="image/x-icon" sizes="72x72" href="/static/assets/images/ico/apple-touch-icon-72-precomposed.png">
+        <link rel="apple-touch-icon" type="image/x-icon" sizes="114x114" href="/static/assets/images/ico/apple-touch-icon-114-precomposed.png">
+        <link rel="apple-touch-icon" type="image/x-icon" sizes="144x144" href="/static/assets/images/ico/apple-touch-icon-144-precomposed.png">
 
-        <link href="static/assets/css/jquery-ui.min.css" rel="stylesheet" type="text/css"/>
-        <link href="static/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-        <link href="static/assets/css/animate.min.css" rel="stylesheet" type="text/css"/>
-        <link href="static/assets/bootsnav/css/bootsnav.css" rel="stylesheet" type="text/css"/>
-        <link href="static/assets/css/RYPP.css" rel="stylesheet" type="text/css"/>
-        <link href="static/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-        <link href="static/assets/themify-icons/themify-icons.css" rel="stylesheet" type="text/css"/>
-        <link href="static/assets/weather-icons/css/weather-icons.min.css" rel="stylesheet" type="text/css"/>
-        <link href="static/assets/css/flaticon.css" rel="stylesheet" type="text/css"/>
-        <link href="static/assets/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css"/>
-        <link href="static/assets/owl-carousel/owl.theme.css" rel="stylesheet" type="text/css"/>
-        <link href="static/assets/owl-carousel/owl.transitions.css" rel="stylesheet" type="text/css"/>
-        <link href="static/assets/css/style.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/css/jquery-ui.min.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/css/animate.min.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/bootsnav/css/bootsnav.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/css/RYPP.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/themify-icons/themify-icons.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/weather-icons/css/weather-icons.min.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/css/flaticon.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/owl-carousel/owl.theme.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/owl-carousel/owl.transitions.css" rel="stylesheet" type="text/css"/>
+        <link href="/static/assets/css/style.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
         <!-- PAGE LOADER -->
@@ -68,13 +68,13 @@
             </div>
         </main>
         <#include "/fragments/footer.ftl">
-        <script src="static/assets/js/jquery.min.js"></script>
-        <script src="static/assets/js/jquery-ui.min.js"></script>
-        <script src="static/assets/js/bootstrap.min.js"></script>
-        <script src="static/assets/bootsnav/js/bootsnav.js"></script>
-        <script src="static/assets/js/theia-sticky-sidebar.js"></script>
-        <script src="static/assets/js/RYPP.js"></script>
-        <script src="static/assets/owl-carousel/owl.carousel.min.js"></script>
+        <script src="/static/assets/js/jquery.min.js"></script>
+        <script src="/static/assets/js/jquery-ui.min.js"></script>
+        <script src="/static/assets/js/bootstrap.min.js"></script>
+        <script src="/static/assets/bootsnav/js/bootsnav.js"></script>
+        <script src="/static/assets/js/theia-sticky-sidebar.js"></script>
+        <script src="/static/assets/js/RYPP.js"></script>
+        <script src="/static/assets/owl-carousel/owl.carousel.min.js"></script>
         <!-- custom js -->
     </body>
 </html>
