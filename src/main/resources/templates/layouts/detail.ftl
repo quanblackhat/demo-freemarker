@@ -75,7 +75,7 @@
                                 <div class="post_details_block">
                                     <figure class="social-icon">
                                         <img src="${contextPath}/images/${article.image}" alt="Ảnh bài viết"
-                                             onerror="this.src='/static/assets/images/default.jpg'" class="img-responsive"/>
+                                             onerror="this.src='${contextPath}/static/assets/images/default.jpg'" class="img-responsive"/>
                                         <div>
                                             <a href="${contextPath}#"><i class="fa fa-facebook"></i></a>
                                             <a href="${contextPath}#"><i class="fa fa-twitter"></i></a>
@@ -128,7 +128,7 @@
                                                             <div class="grid-item-img">
                                                                 <a href="${contextPath}${article.url}">
                                                                     <img src="${contextPath}/images/${article.image}" alt="Ảnh bài viết"
-                                                                         onerror="this.src='/static/assets/images/default.jpg'" class="img-responsive">
+                                                                         onerror="this.src='${contextPath}/static/assets/images/default.jpg'" class="img-responsive">
                                                                     <div class="link-icon"><i class="fa fa-play"></i></div>
                                                                 </a>
                                                             </div>
@@ -153,7 +153,7 @@
                                                             <div class="grid-item-img">
                                                                 <a href="${contextPath}${article.url}">
                                                                     <img src="${contextPath}/images/${article.image}" alt="Ảnh bài viết"
-                                                                         onerror="this.src='/static/assets/images/default.jpg'" class="img-responsive">
+                                                                         onerror="this.src='${contextPath}/static/assets/images/default.jpg'" class="img-responsive">
                                                                     <div class="link-icon"><i class="fa fa-play"></i></div>
                                                                 </a>
                                                             </div>

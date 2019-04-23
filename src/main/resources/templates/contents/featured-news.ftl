@@ -7,7 +7,7 @@
                         <div class="item">
                             <div class="featured-post">
                                 <a href="${contextPath}${article.url}" class="news-image"><img src="${contextPath}/images/${article.image}" alt="Ảnh bài viết"
-                                                                                 onerror="this.src='/static/assets/images/default.jpg'" class="img-responsive"></a>
+                                                                                 onerror="this.src='${contextPath}/static/assets/images/default.jpg'" class="img-responsive"></a>
                                 <div class="reatting">
                                     <i class="fa fa-star"></i>
                                     <i class="fa fa-star"></i>

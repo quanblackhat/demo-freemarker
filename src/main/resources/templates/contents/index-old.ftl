@@ -38,7 +38,7 @@
                             <article>
                                 <figure>
                                     <a href="${contextPath}${article.url}"><img src="${contextPath}/images/${article.image}" alt="Ảnh bài viết"
-                                                                         onerror="this.src='/static/assets/images/default.jpg'"
+                                                                         onerror="this.src='${contextPath}/static/assets/images/default.jpg'"
                                                     height="242" width="345" class="img-responsive"></a>
                                 </figure>
                                 <div class="post-info">
@@ -54,7 +54,7 @@
                                         <div class="img-wrapper">
                                             <a href="${contextPath}${article.url}" class="thumb">
                                                 <img src="${contextPath}/images/${article.image}" alt="Ảnh bài viết"
-                                                     onerror="this.src='/static/assets/images/default.jpg'" class="img-responsive">
+                                                     onerror="this.src='${contextPath}/static/assets/images/default.jpg'" class="img-responsive">
                                             </a>
                                         </div>
                                         <div class="post-info-2">

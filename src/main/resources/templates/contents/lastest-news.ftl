@@ -38,7 +38,7 @@
                                 <div class="news-list-item articles-list">
                                     <div class="img-wrapper">
                                         <a href="${contextPath}#" class="thumb"><img src="${contextPath}/images/${article.image}" alt="Ảnh bài viết"
-                                                                       onerror="this.src='/static/assets/images/default.jpg'" class="img-responsive"></a>
+                                                                       onerror="this.src='${contextPath}/static/assets/images/default.jpg'" class="img-responsive"></a>
                                     </div>
                                     <div class="post-info-2">
                                         <h4><a href="${contextPath}${article.url}" class="title">${article.title}</a></h4>
