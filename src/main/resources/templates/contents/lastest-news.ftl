@@ -37,8 +37,8 @@
                             <#list lastArticles as article>
                                 <div class="news-list-item articles-list">
                                     <div class="img-wrapper">
-                                        <a href="#" class="thumb"><img src="/images/${article.image}" alt="Ảnh bài viết"
-                                                                       onerror="this.src='/static/assets/images/default.jpg'" class="img-responsive"></a>
+                                        <a href="#" class="thumb"><img src="images/${article.image}" alt="Ảnh bài viết"
+                                                                       onerror="this.src='static/assets/images/default.jpg'" class="img-responsive"></a>
                                     </div>
                                     <div class="post-info-2">
                                         <h4><a href="${article.url}" class="title">${article.title}</a></h4>

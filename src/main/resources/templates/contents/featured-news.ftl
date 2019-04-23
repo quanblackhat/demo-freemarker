@@ -6,8 +6,8 @@
                     <#list internationalArticles as article>
                         <div class="item">
                             <div class="featured-post">
-                                <a href="${article.url}" class="news-image"><img src="/images/${article.image}" alt="Ảnh bài viết"
-                                                                                 onerror="this.src='/static/assets/images/default.jpg'" class="img-responsive"></a>
+                                <a href="${article.url}" class="news-image"><img src="images/${article.image}" alt="Ảnh bài viết"
+                                                                                 onerror="this.src='static/assets/images/default.jpg'" class="img-responsive"></a>
                                 <div class="reatting">
                                     <i class="fa fa-star"></i>
                                     <i class="fa fa-star"></i>
